@@ -6,6 +6,8 @@ import numpy as np
 from shapely.geometry import Point, LineString, Polygon
 from configparser import ConfigParser
 
+from utils import Point3D, Geometry
+
 
 class AirDataset:
     def __init__(self, cfg: ConfigParser):
@@ -13,13 +15,27 @@ class AirDataset:
         self.root_path = cfg.get("DATASET", "root")
         self.data_info = os.path.join(self.root_path, cfg.get("DATASET", "data_info"))
 
-    def _vis_image(self, image_path, label_path):
+    def _vis_image(self, image_path, label_path, calib_cw, calib_cl):
         img = cv2.imread(image_path)
         if img is None:
             raise IOError("Image path does not exists")
 
         with open(label_path, "r") as f:
             label = json.load(f)
+
+        with open(calib_cw, "r") as f:
+            inner = json.load(f)
+
+        with open(calib_cl, "r") as f:
+            outer = json.load(f)
+
+        Rcl = np.array(outer["R_kitti2cam"])
+        tcl = np.array(outer["T_kitti2cam"])
+
+        if inner["calibration_result_flag"] != "Success!":
+            return None
+        K = np.array(inner["K"])
+        K = np.expand_dims(K, axis=0).reshape((3, 3))
 
         objects = self.cfg.get("DATASET", "objects").split(",")
         vis_image = img.copy()
@@ -28,10 +44,24 @@ class AirDataset:
                 continue
 
             bbox = object["2d_box"]
+            bbox_3d = object["3d_dimensions"]
+            Pc = object["3d_location"]
             leftTop = (int(float(bbox["xmin"])), int(float(bbox["ymin"])))
             rightBottom = (int(float(bbox["xmax"])), int(float(bbox["ymax"])))
 
-            vis_image = cv2.rectangle(vis_image, leftTop, rightBottom, (0, 255, 0))
+            Pc = np.array([[float(Pc["x"]), float(Pc["y"]), float(Pc["z"])]]).reshape((-1, 1))
+            trans_Pc = np.dot(Rcl, Pc) + tcl
+            center = Geometry.project_pts(trans_Pc, K)
+
+            h, w, l = float(bbox_3d["h"]), float(bbox_3d["w"]), float(bbox_3d["l"])
+            rotation = float(object["rotation_y"]) * np.pi / 180
+            theta = float(object["alpha"])
+            if theta != 0:
+                print("theta: ", theta)
+
+            vis_image = cv2.circle(vis_image, (int(center[0, 0]), int(center[1, 0])), 3, (0, 0, 255), 3)
+            vis_image = cv2.rectangle(vis_image, leftTop, rightBottom, (0, 255, 0), 2)
+
         return vis_image
 
     def _vis_points(self, lidar_path, label_path):
@@ -60,9 +90,7 @@ class AirDataset:
         pts = np.array(pcd.points)
 
         trans_pts = np.dot(Rcl, pts.T) + tcl
-        norm_pts = trans_pts / trans_pts[2, :]
-
-        u = np.dot(K, norm_pts)[0:2, :].T
+        u = Geometry.project_pts(trans_pts, K).T
 
         image = cv2.imread(image_path)
         if image is None:
@@ -107,6 +135,50 @@ class AirDataset:
         tcl = np.array(outer["T_kitti2cam"])
 
         pcd = o3d.io.read_point_cloud(lidar_path)
+        points = np.array(pcd.points)
+
+        iterations = float(self.cfg.get("MAP", "iterations"))
+        threshold = float(self.cfg.get("MAP", "threshold"))
+        norm, plane_pts = Point3D.RANSAC(points, threshold, iterations)
+
+        ones = np.array([[0, 0, 0, 1]])
+        T_ = np.concatenate((Rcl, tcl), axis=1)
+        Tcw = np.concatenate((T_, ones), axis=0)
+        Twc = np.linalg.inv(Tcw)
+
+        norm = np.dot(Twc.T, norm)
+
+        # # checkout
+        # pcd.points = o3d.utility.Vector3dVector(plane_pts.tolist())
+        # o3d.visualization.draw_geometries([pcd])
+
+        # Read label and statistic results
+        objects = self.cfg.get("DATASET", "objects").split(",")
+        with open(label_path, "r") as f:
+            label = json.load(f)
+        image = cv2.imread(image_path)
+        if image is None:
+            raise IOError("Image does not exist")
+
+        vis_image = image.copy()
+
+        for object in label:
+            if object["type"] not in objects:
+                continue
+
+            bbox = object["2d_box"]
+            pos = object["3d_location"]
+            bbox_3D = object["3d_dimensions"]
+            Pg = np.array([[float(pos["x"]), float(pos["y"]), float(pos["z"])]]).T
+            Pg = np.dot(Rcl, Pg) + tcl
+            x = (float(bbox["xmin"]) + float(bbox["xmax"])) / 2
+            y = float(bbox["ymax"])
+
+            u = np.array([x, y, 1])
+            Pc = Geometry.inv_project(u, norm, K)
+
+            dist = np.linalg.norm(Pc - Pg[:, 0])
+            print(Pc, Pg[:, 0])
 
     def __call__(self, **kwargs):
         with open(self.data_info, "r") as f:
@@ -125,7 +197,7 @@ class AirDataset:
             process["pcd_name"] = info["point_cloud_path"].split("/")[-1]
 
             if kwargs.get("vis_image") is True:
-                process["image"] = self._vis_image(image_path, camera_label)
+                process["image"] = self._vis_image(image_path, camera_label, calib_cw, calib_cl)
 
             if kwargs.get("vis_points") is True:
                 process["points"] = self._vis_points(pcd_path, lidar_label)
@@ -136,6 +208,12 @@ class AirDataset:
                                                          calib_cw,
                                                          calib_cl)
 
+            self._statistic_position(image_path,
+                                     pcd_path,
+                                     calib_cw,
+                                     calib_cl,
+                                     camera_label)
+
             yield process
 
 
@@ -144,9 +222,9 @@ if __name__ == '__main__':
     cfg.read("config/config.cfg")
 
     data_handler = AirDataset(cfg)
-    for image_info in data_handler(vis_image=False,
-                                   vis_points=True,
-                                   vis_project=True):
+    for image_info in data_handler(vis_image=True,
+                                   vis_points=False,
+                                   vis_project=False):
         if image_info.get("points") is not None:
             pass
 
@@ -155,7 +233,6 @@ if __name__ == '__main__':
             if not os.path.isdir(output_dir):
                 os.mkdir(output_dir)
 
-            print(image_info["pcd_name"])
             o3d.io.write_point_cloud(os.path.join(output_dir, image_info["pcd_name"]),
                                      image_info["color_pts"])
 
