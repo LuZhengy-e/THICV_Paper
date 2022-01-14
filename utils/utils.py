@@ -1,4 +1,5 @@
 import cv2
+import math
 import numpy as np
 
 MAX_ITERATION = 1e6
@@ -105,6 +106,7 @@ class Geometry:
     @staticmethod
     def enu2ecef(x, y, z, lat0, lon0):
         X0, Y0, Z0 = Geometry.lla2ecef(lat0, lon0)
+        lat0, lon0 = np.pi * lat0 / 180.0, np.pi * lon0 / 180.0
 
         S = np.array([[-np.sin(lon0), np.cos(lon0), 0],
                       [-np.sin(lat0) * np.cos(lon0), -np.sin(lat0) * np.sin(lon0), np.cos(lat0)],
@@ -121,14 +123,36 @@ class Geometry:
         R = 6378137.0
         e = f * (2 - f)
 
-        lon = np.arctan(y, x) * 180 / np.pi
-        p = np.linalg.norm(np.array([x, y]))
+        lon = np.arctan(y / x) * 180 / np.pi
+        if lon < 0:
+            lon = 180 + lon
 
-        lat = np.arctan(z / p, 1 / (1 - e ** 2)) * 180 / np.pi
+        # calculate lat
+        lat = 0
+        N = R / np.sqrt(1 - f * (2 - f) * np.sin(lat) ** 2)
+        for _ in range(10):
+            lat = np.arcsin(z / (N * (1 - f) ** 2))
+            N = R / np.sqrt(1 - f * (2 - f) * np.sin(lat) ** 2)
 
-        return lat, lon
+        return lat * 180 / np.pi, lon
 
     @staticmethod
     def enu2lla(x, y, z, lat0, lon0):
         X, Y, Z = Geometry.enu2ecef(x, y, z, lat0, lon0)
         return Geometry.ecef2lla(X, Y, Z)
+
+
+if __name__ == '__main__':
+    lat0, lon0 = 39.9953100, 116.3152300
+    lat, lon = 40.0023170, 116.3244420
+    print(lat, lon)
+
+    x, y, z = Geometry.lla2ecef(lat, lon)
+    x0, y0, z0 = Geometry.lla2ecef(lat0, lon0)
+    print(x, y, z)
+
+    e, n, u = Geometry.ecef2enu(x, y, z, x0, y0, z0, lat0, lon0)
+    print(e, n, u)
+
+    lat_, lon_ = Geometry.enu2lla(e, n, u, lat0, lon0)
+    print(lat_, lon_)

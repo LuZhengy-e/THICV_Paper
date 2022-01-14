@@ -5,8 +5,9 @@ from copy import deepcopy
 from configparser import ConfigParser
 from xml.etree.ElementTree import ElementTree as ET
 from xml.etree.ElementTree import Element, SubElement, tostring
-from utils import Geometry
-from sensors import Camera1D
+
+from utils.utils import Geometry
+from utils.sensors import Camera1D
 
 
 class Point:
@@ -41,6 +42,64 @@ class Point:
         for tag, val in tags.items():
             self._tags[tag] = val
 
+    def get_tags(self):
+        for k, v in self._tags.items():
+            yield k, v
+
+    def distance(self, pt):
+        assert isinstance(pt, Point), "Please input correct point"
+        return np.sqrt((self.x - pt.x) ** 2 + (self.y - pt.y) ** 2 + (self.z - pt.z) ** 2)
+
+    def distance2D(self, pt):
+        assert isinstance(pt, Point), "Please input correct point"
+        return np.sqrt((self.x - pt.x) ** 2 + (self.y - pt.y) ** 2)
+
+
+class Pos(Point):
+    def __init__(self, x, y, z, idx, tags=None):
+        super(Pos, self).__init__(x, y, z, idx, tags)
+
+    def walk(self, direct, step):
+        assert np.linalg.norm(direct) != 0, "Incorrect direction"
+        if np.linalg.norm(direct) != 1:
+            direct = direct / np.linalg.norm(direct)
+
+        self._x += direct[0] * step
+        self._y += direct[1] * step
+        self._z += direct[2] * step
+
+    def can_walk(self, direct, step, end_point):
+        assert np.linalg.norm(direct) != 0, "Incorrect direction"
+        if np.linalg.norm(direct) != 1:
+            direct = direct / np.linalg.norm(direct)
+
+        delta_x = end_point.x - self.x
+        delta_y = end_point.y - self.y
+        delta_z = end_point.z - self.z
+
+        if delta_x != 0:
+            t = direct[0] * step / delta_x
+
+        elif delta_y != 0:
+            t = direct[1] * step / delta_y
+
+        elif delta_z != 0:
+            t = direct[2] * step / delta_z
+
+        else:
+            raise ValueError("input is wrong")
+
+        return t <= 1
+
+    @classmethod
+    def copy_from_point(cls, point, if_get_tag=False):
+        pos = cls(point.x, point.y, point.z, point.id)
+        if if_get_tag:
+            for k, v in point.get_tags():
+                pos.update_tag({k: v})
+
+        return pos
+
 
 class Line:
     def __init__(self, pt_list, idx, tags=None):
@@ -64,6 +123,18 @@ class Line:
         for tag, val in tags.items():
             self._tags[tag] = val
 
+    def get_tags(self):
+        for k, v in self._tags.items():
+            yield k, v
+
+    @property
+    def begin(self):
+        return self._pt_list[0]
+
+    @property
+    def end(self):
+        return self._pt_list[-1]
+
 
 class LoaclMap:
     def __init__(self, path, **kwargs):
@@ -71,6 +142,8 @@ class LoaclMap:
         self._Mapdict = {"Point": {}, "Line": {}}
         root = ET().parse(path)
         assert root[0].tag == "bounds", "some wrong in OSM file"
+
+        self._bounds = root[0].attrib
 
         self.reflat = kwargs["minlat"] if kwargs.get("minlat") is not None else float(root[0].attrib["minlat"])
         self.reflon = kwargs["minlon"] if kwargs.get("minlon") is not None else float(root[0].attrib["minlon"])
@@ -103,6 +176,21 @@ class LoaclMap:
 
             self._Mapdict["Line"][idx] = Line(node_list, idx, deepcopy(tags))
 
+    def indent(self, elem, level=0):
+        i = "\n" + level * "\t"
+        if len(elem):
+            if not elem.text or not elem.text.strip():
+                elem.text = i + "\t"
+            if not elem.tail or not elem.tail.strip():
+                elem.tail = i
+            for elem in elem:
+                self.indent(elem, level + 1)
+            if not elem.tail or not elem.tail.strip():
+                elem.tail = i
+        else:
+            if level and (not elem.tail or not elem.tail.strip()):
+                elem.tail = i
+
     def create_line(self, pt_list, tags=None):
         if tags is None:
             tags = {}
@@ -124,17 +212,17 @@ class LoaclMap:
         return str(self._max_pt_id)
 
     def get_line(self, line_id):
-        return self._Mapdict["Point"].get(line_id)
+        return self._Mapdict["Line"].get(line_id)
 
     def get_point(self, point_id):
-        return self._Mapdict["Line"].get(point_id)
+        return self._Mapdict["Point"].get(point_id)
 
     def get_lines(self):
-        for line_id, line in self._Mapdict["Line"].items():
+        for line_id, line in deepcopy(self._Mapdict["Line"]).items():
             yield line_id
 
     def get_points(self):
-        for point_id, point in self._Mapdict["Point"].items():
+        for point_id, point in deepcopy(self._Mapdict["Point"]).items():
             yield point_id
 
     def update_point_tag(self, point_id, tags):
@@ -157,5 +245,79 @@ class LoaclMap:
     def delete_line(self, line_id):
         self._Mapdict["Line"].pop(line_id)
 
-    def dump_to_osm(self, output_dir):
-        etree = Element()
+    def dump_to_osm(self, output_dir, **kwargs):
+        root_dict = {
+            "version": "0.6",
+            "generator": "CGImap 0.8.3 (3424048 spike-06.openstreetmap.org)",
+            "copyright": "OpenStreetMap and contributors",
+            "attribution": "http://www.openstreetmap.org/copyright",
+            "license": "http://opendatacommons.org/licenses/odbl/1-0/"
+        }
+        default_node = dict(
+            visible="true",
+            version="7",
+            changeset="86814011",
+            timestamp="2020-06-18T09:19:19Z",
+            user="luzhengye",
+            uid="5077787",
+        )
+
+        root = Element("osm")
+        for k, v in root_dict.items():
+            root.set(k, v)
+
+        bounds = SubElement(root, "bounds")
+        for k, v in self._bounds.items():
+            bounds.set(k, v)
+
+        node_dict = self._Mapdict["Point"]
+        for idx, pt in node_dict.items():
+            node = SubElement(root, "node")
+            x, y, z = pt.x, pt.y, pt.z
+            lat, lon = Geometry.enu2lla(x, y, z, self.reflat, self.reflon)
+            node.set("lat", str(lat))
+            node.set("lon", str(lon))
+            for k, v in default_node.items():
+                node.set(k, v)
+            node.set("id", idx)
+
+            for k, v in pt.get_tags():
+                tag = SubElement(node, "tag")
+                tag.set("k", k)
+                tag.set("v", v)
+
+        line_dict = self._Mapdict["Line"]
+        for idx, line in line_dict.items():
+            way = SubElement(root, "way")
+            for k, v in default_node.items():
+                way.set(k, v)
+            way.set("id", idx)
+            for pt in line.get_pts():
+                ref_node = SubElement(way, "nd")
+                ref_node.set("ref", pt.id)
+
+            for k, v in line.get_tags():
+                tag = SubElement(way, "tag")
+                tag.set("k", k)
+                tag.set("v", v)
+
+        # relation = SubElement(root, "relation")
+
+        self.indent(root)
+        tree = ET(root)
+        tree.write(output_dir, encoding="UTF-8", xml_declaration=True)
+
+
+if __name__ == '__main__':
+    rad = np.pi / 180
+    localmap = LoaclMap("/home/luzhengye/dataset/1130-DAIR-V2X/Tsinghua.osm")
+    sensor = Camera1D.create(10 * rad, 23 * rad, np.pi / 2, 8, 2329.297332, 2)
+    for line_id in localmap.get_lines():
+        line = localmap.get_line(line_id)
+        begin, end = line.begin, line.end
+        sensor.deployment(localmap,
+                          coord=np.array([begin.x, begin.y]),
+                          theta=np.pi / 8,
+                          ele=begin.z)
+
+    localmap.dump_to_osm("test.osm")

@@ -6,7 +6,7 @@ import numpy as np
 from shapely.geometry import Point, LineString, Polygon
 from configparser import ConfigParser
 
-from utils import Point3D, Geometry
+from utils.utils import Point3D, Geometry
 
 
 class AirDataset:
