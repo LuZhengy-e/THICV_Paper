@@ -1,6 +1,7 @@
 import cv2
 import numpy as np
 from configparser import ConfigParser
+from shapely.geometry import Point, Polygon
 
 MAX_VALUE = 1e6
 
@@ -58,17 +59,48 @@ class Camera1D:
         Hmax = min(2 * L_HF * np.cos(VFOV / 2) * np.tan(HFOV / 2), MAX_VALUE)
 
         # localization
-        D_thresh = 1 - 2 * H / np.tan(phi) + \
-                   np.sqrt(
-                       1 + (4 * H * fy) / (delta_v * np.sin(phi) ** 2)
-                   )
+        if phi == 0:
+            D_thresh = MAX_VALUE
+        else:
+            D_thresh = 1 - 2 * H / np.tan(phi) + \
+                       np.sqrt(
+                           1 + (4 * H * fy) / (delta_v * np.sin(phi) ** 2)
+                       )
 
         if D_thresh <= max(Dmin, 0):
+            print("cur sensor is", phi * 180 / np.pi, H)
             return None
 
         Dmaxmin = min(D_thresh, Dmax)
         if Dmaxmin < Dmax:
             Hmax = Hmax - (Dmax - Dmaxmin) / (Dmax - Dmin) * (Hmax - Hmin)
 
-        print(Hmax)
         return cls(Dmin, Dmaxmin, Hmin, Hmax)
+
+    def is_point_vis(self, point, coord, theta):
+        R = np.array(
+            [
+                [np.cos(theta), -np.sin(theta)],
+                [np.sin(theta), np.cos(theta)]
+            ]
+        )
+        t = coord.copy()
+        if len(coord.shape) == 1:
+            t = np.expand_dims(t, axis=1)
+
+        corner_pts = np.array(
+            [
+                [self.min_l, self.min_h / 2],
+                [self.min_l, -self.min_h / 2],
+                [self.max_l, -self.max_h / 2],
+                [self.max_l, self.max_h / 2],
+                [self.min_l, self.min_h / 2]
+            ]
+        )
+        corner_pts = corner_pts.T
+        local_coord = np.dot(R, corner_pts) + t
+
+        pt = Point(point.x, point.y)
+        poly = Polygon(local_coord.T.tolist())
+
+        return pt.within(poly)

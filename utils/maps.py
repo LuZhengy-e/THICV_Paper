@@ -311,13 +311,15 @@ class LoaclMap:
 if __name__ == '__main__':
     rad = np.pi / 180
     localmap = LoaclMap("/home/luzhengye/dataset/1130-DAIR-V2X/Tsinghua.osm")
-    sensor = Camera1D.create(10 * rad, 23 * rad, np.pi / 2, 8, 2329.297332, 2)
+    sensor = Camera1D.create(15 * rad, 23 * rad, np.pi / 2, 3, 2329.297332, 1)
     for line_id in localmap.get_lines():
         line = localmap.get_line(line_id)
+        if line.get_tag("highway") is None:
+            continue
         begin, end = line.begin, line.end
         sensor.deployment(localmap,
                           coord=np.array([begin.x, begin.y]),
-                          theta=np.pi / 8,
+                          theta=0 * np.pi / 8,
                           ele=begin.z)
 
     localmap.dump_to_osm("test.osm")
