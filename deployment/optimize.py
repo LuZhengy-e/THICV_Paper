@@ -89,6 +89,41 @@ class ILP:
                         self.Q.put((r1, new_A_ub1, new_b_ub1))
 
 
+class DynamicProgramming:
+    def __init__(self):
+        self.format = {}
+
+    def solve(self, dp_name, **kwargs):
+        if self.format.get(dp_name) is None:
+            raise IndexError(f"{dp_name} doesn't register")
+
+        try:
+            dp = self.format[dp_name]
+            result = dp(**kwargs)
+
+        except Exception:
+            raise IOError("Incorrect function")
+
+        return result
+
+    def register(self, fun):
+        name = fun.__name__
+        if self.format.get(name) is not None:
+            raise IndexError("Repeat register")
+
+        self.format[name] = fun
+        print(f"{name} has registered ...")
+
+        return fun
+
+
+DP_OBJECT = DynamicProgramming()
+
+
+def build_from_dp(name, **kwargs):
+    return DP_OBJECT.solve(name, **kwargs)
+
+
 if __name__ == '__main__':
     c = np.array([40, 90])
     A = np.array([[-9, -7], [-7, -20]])

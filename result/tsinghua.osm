@@ -1372,370 +1372,158 @@
 		<tag k="cuisine" v="coffee_shop" />
 		<tag k="name" v="蒙楼咖啡（新清华学堂店）" />
 	</node>
-	<node changeset="86814011" id="8639885944" lat="39.99984530934349" lon="116.3198330757827" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885945" lat="39.99984530934349" lon="116.31987854213776" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885946" lat="40.00122736888948" lon="116.32011045794151" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885947" lat="40.00122736888948" lon="116.3196013464678" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885948" lat="39.99632470257748" lon="116.3236599843622" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885949" lat="39.99632470257748" lon="116.32370544838216" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885950" lat="39.99770669171153" lon="116.32393742941139" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885951" lat="39.99770669171153" lon="116.32342834408561" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885952" lat="39.996412702746596" lon="116.32648638980776" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885953" lat="39.996412702746596" lon="116.32653185388567" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885954" lat="39.99779469364049" lon="116.3267638921809" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885955" lat="39.99779469364049" lon="116.32625480620604" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885956" lat="39.994101698305876" lon="116.32670649099953" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885957" lat="39.994101698305876" lon="116.32675195354503" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885958" lat="39.995483642986365" lon="116.32698398845535" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885959" lat="39.995483642986365" lon="116.32647491963996" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885960" lat="39.99441129890076" lon="116.31606277028112" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885961" lat="39.99441129890076" lon="116.31610823303282" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885962" lat="39.99579324977206" lon="116.31634005446243" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885963" lat="39.99579324977206" lon="116.3158309833382" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885964" lat="39.996272202476604" lon="116.31592426939594" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885965" lat="39.996272202476604" lon="116.31596973338156" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885966" lat="39.99765419056075" lon="116.31620155831163" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885967" lat="39.99765419056075" lon="116.31569247337019" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885968" lat="39.99348569712228" lon="116.32148528109059" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885969" lat="39.99348569712228" lon="116.32153074322832" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885970" lat="39.994867629485434" lon="116.32176267082089" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885971" lat="39.994867629485434" lon="116.32125360657177" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885972" lat="39.99984530934349" lon="116.3198330757827" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885973" lat="39.99984530934349" lon="116.31987854213776" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885974" lat="40.00122736888948" lon="116.32011045794151" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885975" lat="40.00122736888948" lon="116.3196013464678" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885976" lat="39.9988855074988" lon="116.3156974680902" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885977" lat="39.9988855074988" lon="116.31574293380885" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885978" lat="40.000267547847564" lon="116.31597476300428" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885979" lat="40.000267547847564" lon="116.31546565865688" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885980" lat="39.99767450517144" lon="116.31781407259149" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885981" lat="39.99767450517144" lon="116.31785953750699" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885982" lat="39.99905652129999" lon="116.31809140527102" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885983" lat="39.99905652129999" lon="116.31758230991713" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885984" lat="39.99668880327717" lon="116.31943147605107" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885985" lat="39.99668880327717" lon="116.31947694031282" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885986" lat="39.99807079969264" lon="116.319708837344" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885987" lat="39.99807079969264" lon="116.31919974931046" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885988" lat="39.99794430568994" lon="116.31577916856052" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885989" lat="39.99794430568994" lon="116.31582463365498" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885990" lat="39.99932632721442" lon="116.31605646131445" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885991" lat="39.99932632721442" lon="116.31554736395654" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885992" lat="39.99850610676964" lon="116.31822257310708" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885993" lat="39.99850610676964" lon="116.31826803857405" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885994" lat="39.99988813953018" lon="116.3184999173848" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885995" lat="39.99988813953018" lon="116.31799081585561" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885996" lat="39.996887303658625" lon="116.32080947865444" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885997" lat="39.996887303658625" lon="116.32085494304772" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885998" lat="39.99826930404383" lon="116.32108686852561" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639885999" lat="39.99826930404383" lon="116.32057777901917" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886000" lat="39.993478397108255" lon="116.3226720833917" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886001" lat="39.993478397108255" lon="116.32271754552447" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886002" lat="39.99486032932544" lon="116.32294949701244" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886003" lat="39.99486032932544" lon="116.32244043281878" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886004" lat="39.99992640949937" lon="116.32455268489801" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886005" lat="39.99992640949937" lon="116.32459815130639" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886006" lat="40.00130847066751" lon="116.32483016251751" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886007" lat="40.00130847066751" lon="116.3243210504466" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886008" lat="39.996403302728524" lon="116.32627118939402" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886009" lat="39.996403302728524" lon="116.32631665346574" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886010" lat="39.99778529343443" lon="116.32654868739166" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886011" lat="39.99778529343443" lon="116.3260396014862" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886012" lat="39.99521570044642" lon="116.32675519072488" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886013" lat="39.99521570044642" lon="116.32680065400903" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886014" lat="39.996597667403066" lon="116.32703269367094" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886015" lat="39.996597667403066" lon="116.3265236165845" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886016" lat="40.00149911252223" lon="116.327038889193" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886017" lat="40.00149911252223" lon="116.32708435664414" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886018" lat="40.00288120514851" lon="116.3273164232931" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886019" lat="40.00288120514851" lon="116.32680729954583" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886020" lat="39.99995860956125" lon="116.3255836868845" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886021" lat="39.99995860956125" lon="116.32562915331411" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886022" lat="40.00134067137344" lon="116.32586118541587" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886023" lat="40.00134067137344" lon="116.32535207310741" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886024" lat="39.99984530934349" lon="116.3198330757827" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886025" lat="39.99984530934349" lon="116.31987854213776" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886026" lat="40.00122736888948" lon="116.32011045794151" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886027" lat="40.00122736888948" lon="116.3196013464678" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886028" lat="39.998643707034084" lon="116.31571846821103" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886029" lat="39.998643707034084" lon="116.31576393376932" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886030" lat="40.00002574254668" lon="116.31599576257034" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886031" lat="40.00002574254668" lon="116.31548666001862" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886032" lat="39.99999820963736" lon="116.32711348983476" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886033" lat="39.99999820963736" lon="116.32715895629038" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886034" lat="40.00138027224164" lon="116.32739101936195" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886035" lat="40.00138027224164" lon="116.32688190676205" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886036" lat="40.00041311043481" lon="116.3266588888167" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886037" lat="40.00041311043481" lon="116.32670435554758" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886038" lat="40.00179518133797" lon="116.32693641086041" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886039" lat="40.00179518133797" lon="116.32642729517829" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886040" lat="39.99941020850722" lon="116.31826107288194" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886041" lat="39.99941020850722" lon="116.3183065389485" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886042" lat="40.00079225935055" lon="116.31853842159337" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886043" lat="40.00079225935055" lon="116.31802931335005" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886044" lat="39.99738150460835" lon="116.32546438750722" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886045" lat="39.99738150460835" lon="116.32550985222773" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886046" lat="39.99876351487707" lon="116.32574187320247" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886047" lat="39.99876351487707" lon="116.325232780032" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886048" lat="40.00002620969118" lon="116.31826477268488" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886049" lat="40.00002620969118" lon="116.31831023916" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886050" lat="40.001408272855514" lon="116.31854212396314" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886051" lat="40.001408272855514" lon="116.318033011145" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886052" lat="39.99976070918089" lon="116.3183645729662" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886053" lat="39.99976070918089" lon="116.31841003926525" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886054" lat="40.001142767034736" lon="116.31864192518199" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886055" lat="40.001142767034736" lon="116.31813281433568" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886056" lat="40.00002620969118" lon="116.31826477268488" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886057" lat="40.00002620969118" lon="116.31831023916" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886058" lat="40.001408272855514" lon="116.31854212396314" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886059" lat="40.001408272855514" lon="116.318033011145" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886060" lat="39.996269002470456" lon="116.32234538183434" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886061" lat="39.996269002470456" lon="116.3223908458175" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886062" lat="39.997650990490605" lon="116.32262280016133" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886063" lat="39.997650990490605" lon="116.32211371524758" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886064" lat="39.996272202476604" lon="116.31592426939594" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886065" lat="39.996272202476604" lon="116.31596973338156" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886066" lat="39.99765419056075" lon="116.31620155831163" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886067" lat="39.99765419056075" lon="116.31569247337019" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886068" lat="39.9988855074988" lon="116.3156974680902" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886069" lat="39.9988855074988" lon="116.31574293380885" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886070" lat="40.000267547847564" lon="116.31597476300428" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886071" lat="40.000267547847564" lon="116.31546565865688" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886072" lat="39.999909509466875" lon="116.32401008385258" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886073" lat="39.999909509466875" lon="116.32405555024982" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886074" lat="40.00129157029699" lon="116.32428755046664" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886075" lat="40.00129157029699" lon="116.32377843852049" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886076" lat="39.99768970520064" lon="116.32203368075977" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886077" lat="39.99768970520064" lon="116.32207914568507" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886078" lat="39.9990717216332" lon="116.3223110985529" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886079" lat="39.9990717216332" lon="116.32180200308923" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886080" lat="39.999313508321364" lon="116.32628408845495" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886081" lat="39.999313508321364" lon="116.3263295544566" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886082" lat="40.00069555723058" lon="116.32656159849253" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886083" lat="40.00069555723058" lon="116.32605249097614" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886084" lat="39.99931610832637" lon="116.32650248887717" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886085" lat="39.99931610832637" lon="116.32654795488051" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886086" lat="40.00069815728757" lon="116.32678000332741" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886087" lat="40.00069815728757" lon="116.32627089579209" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886088" lat="40.000925111418915" lon="116.31874917332517" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886089" lat="40.000925111418915" lon="116.31879464039646" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886090" lat="40.00230719256339" lon="116.31902653800466" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886091" lat="40.00230719256339" lon="116.31851741851072" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886092" lat="40.00067031092917" lon="116.31897517384743" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886093" lat="40.00067031092917" lon="116.31902064074971" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886094" lat="40.00205238697697" lon="116.31925254205153" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886095" lat="40.00205238697697" lon="116.31874342445012" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886096" lat="40.00067031092917" lon="116.31897517384743" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886097" lat="40.00067031092917" lon="116.31902064074971" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886098" lat="40.00205238697697" lon="116.31925254205153" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886099" lat="40.00205238697697" lon="116.31874342445012" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886100" lat="40.00049491059203" lon="116.31917247428777" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886101" lat="40.00049491059203" lon="116.3192179410737" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886102" lat="40.00187698313138" lon="116.3194498457592" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886103" lat="40.00187698313138" lon="116.31894072946059" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886104" lat="39.996269002470456" lon="116.32234538183434" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886105" lat="39.996269002470456" lon="116.3223908458175" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886106" lat="39.997650990490605" lon="116.32262280016133" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886107" lat="39.997650990490605" lon="116.32211371524758" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886108" lat="39.996935703751646" lon="116.32361748407746" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886109" lat="39.996935703751646" lon="116.32366294850257" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886110" lat="39.99831770510479" lon="116.32389493074258" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886111" lat="39.99831770510479" lon="116.32338584087978" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886112" lat="39.99755300493795" lon="116.3158131687561" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886113" lat="39.99755300493795" lon="116.31585863359106" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886114" lat="39.998935018636566" lon="116.31609046061266" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886115" lat="39.998935018636566" lon="116.31558136616053" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886116" lat="39.99846970669966" lon="116.3198868763429" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886117" lat="39.99846970669966" lon="116.31993234178566" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886118" lat="39.999851738732204" lon="116.32016425402023" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886119" lat="39.999851738732204" lon="116.31965515276235" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886120" lat="39.99846970669966" lon="116.3198868763429" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886121" lat="39.99846970669966" lon="116.31993234178566" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886122" lat="39.999851738732204" lon="116.32016425402023" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886123" lat="39.999851738732204" lon="116.31965515276235" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886124" lat="39.99668880327717" lon="116.31943147605107" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886125" lat="39.99668880327717" lon="116.31947694031282" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886126" lat="39.99807079969264" lon="116.319708837344" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886127" lat="39.99807079969264" lon="116.31919974931046" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886128" lat="39.995150300320766" lon="116.32676299076167" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886129" lat="39.995150300320766" lon="116.32680845400246" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886130" lat="39.99653226596959" lon="116.32704049360024" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886131" lat="39.99653226596959" lon="116.32653141699939" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886132" lat="39.999840409334084" lon="116.32180317960055" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886133" lat="39.999840409334084" lon="116.3218486459522" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886134" lat="40.00122246878207" lon="116.32208060145084" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886135" lat="40.00122246878207" lon="116.32157149001523" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886136" lat="39.997229304315866" lon="116.32079267850855" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886137" lat="39.997229304315866" lon="116.32083814312864" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886138" lat="39.998611311540714" lon="116.32107006942486" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886139" lat="39.998611311540714" lon="116.32056097737885" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886140" lat="39.9976149050569" lon="116.32081207841836" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886141" lat="39.9976149050569" lon="116.32085754329415" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886142" lat="39.99899691999347" lon="116.32108947128587" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886143" lat="39.99899691999347" lon="116.32058037637648" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886144" lat="39.99811470601742" lon="116.31949427570012" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886145" lat="39.99811470601742" lon="116.31953974090746" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886146" lat="39.99949673094988" lon="116.31977164402763" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886147" lat="39.99949673094988" lon="116.31926254540576" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886148" lat="39.99846970669966" lon="116.3198868763429" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886149" lat="39.99846970669966" lon="116.31993234178566" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886150" lat="39.999851738732204" lon="116.32016425402023" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886151" lat="39.999851738732204" lon="116.31965515276235" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886152" lat="39.9980971059836" lon="116.31986767642923" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886153" lat="39.9980971059836" lon="116.31991314162485" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886154" lat="39.99947913056407" lon="116.32014505221198" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886155" lat="39.99947913056407" lon="116.31963595372106" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886156" lat="39.99974710915475" lon="116.31824367273654" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886157" lat="39.99974710915475" lon="116.31828913902655" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886158" lat="40.00112916673657" lon="116.31852102246027" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886159" lat="40.00112916673657" lon="116.31801191171493" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886160" lat="39.997866505540415" lon="116.32472038590538" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886161" lat="39.997866505540415" lon="116.32476585094764" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886162" lat="39.999248525508904" lon="116.32499785856761" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886163" lat="39.999248525508904" lon="116.32448876179444" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886164" lat="39.99878050729699" lon="116.32668118940073" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886165" lat="39.99878050729699" lon="116.32672665504882" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886166" lat="40.000162545545706" lon="116.32695870528472" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886167" lat="40.000162545545706" lon="116.32644960172729" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886168" lat="39.99803720586848" lon="116.32813359246035" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886169" lat="39.99803720586848" lon="116.32817905761526" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886170" lat="39.99941922925094" lon="116.32841113460988" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886171" lat="39.99941922925094" lon="116.32790203657504" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886172" lat="39.99796920573779" lon="116.32620578874862" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886173" lat="39.99796920573779" lon="116.32625125385877" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886174" lat="39.999351227760265" lon="116.32648329176631" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886175" lat="39.999351227760265" lon="116.32597419423286" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886176" lat="39.99998130960488" lon="116.31564306762145" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886177" lat="39.99998130960488" lon="116.31568853406685" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886178" lat="40.00136337187112" lon="116.31592036587148" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886179" lat="40.00136337187112" lon="116.3154112533861" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886180" lat="39.99807590594286" lon="116.31787287257234" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886181" lat="39.99807590594286" lon="116.31791833775401" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886182" lat="39.999457930099325" lon="116.31815020806087" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886183" lat="39.999457930099325" lon="116.31764110972622" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886184" lat="39.99761940506555" lon="116.31861367415858" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886185" lat="39.99761940506555" lon="116.31865913903749" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886186" lat="39.99900142009212" lon="116.3188910227324" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886187" lat="39.99900142009212" lon="116.31838192778805" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886188" lat="39.99717890421903" lon="116.31768627250824" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886189" lat="39.99717890421903" lon="116.3177317370951" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886190" lat="39.998560910435906" lon="116.31796360060696" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886191" lat="39.998560910435906" lon="116.31745450893324" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886192" lat="39.996590203087685" lon="116.31872507471547" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886193" lat="39.996590203087685" lon="116.3187705389119" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886194" lat="39.997972197531304" lon="116.31900242137117" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886195" lat="39.997972197531304" lon="116.31849333406939" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886196" lat="39.995969701895305" lon="116.31786107324766" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886197" lat="39.995969701895305" lon="116.31790653703266" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886198" lat="39.997351683930056" lon="116.31813839997842" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886199" lat="39.997351683930056" lon="116.31762931728365" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886200" lat="39.999275708248724" lon="116.31826487293388" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886201" lat="39.999275708248724" lon="116.31831033891125" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886202" lat="40.00065775640188" lon="116.31854222117778" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886203" lat="40.00065775640188" lon="116.3180331139333" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886204" lat="39.997964505728746" lon="116.31287736293316" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886205" lat="39.997964505728746" lon="116.31292282804097" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886206" lat="39.99934652765724" lon="116.3131545972772" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886207" lat="39.99934652765724" lon="116.31264549976972" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886208" lat="39.998457806676804" lon="116.3207022779263" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886209" lat="39.998457806676804" lon="116.3207477433611" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886210" lat="39.99983983847133" lon="116.32097967199121" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886211" lat="39.99983983847133" lon="116.32047057082232" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886212" lat="39.996272202476604" lon="116.31592426939594" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886213" lat="39.996272202476604" lon="116.31596973338156" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886214" lat="39.99765419056075" lon="116.31620155831163" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886215" lat="39.99765419056075" lon="116.31569247337019" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886216" lat="40.00022191006731" lon="116.32821049188564" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886217" lat="40.00022191006731" lon="116.32825595848945" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886218" lat="40.00160397714606" lon="116.32848804443022" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886219" lat="40.00160397714606" lon="116.32797893017104" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886220" lat="40.00145871244456" lon="116.32554218630708" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886221" lat="40.00145871244456" lon="116.32558765373165" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886222" lat="40.00284080426269" lon="116.32581969007461" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886223" lat="40.00284080426269" lon="116.32531056662484" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886224" lat="39.99743530471176" lon="116.32474988610537" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886225" lat="39.99743530471176" lon="116.32479535086165" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886226" lat="39.998817316056424" lon="116.32502735761699" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886227" lat="39.998817316056424" lon="116.3245182640459" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886228" lat="39.996403302728524" lon="116.32627118939402" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886229" lat="39.996403302728524" lon="116.32631665346574" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886230" lat="39.99778529343443" lon="116.32654868739166" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886231" lat="39.99778529343443" lon="116.3260396014862" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886232" lat="39.996430302780425" lon="116.3267910903921" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886233" lat="39.996430302780425" lon="116.32683655448164" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886234" lat="39.997812294026275" lon="116.3270685989779" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886235" lat="39.997812294026275" lon="116.32655951287288" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886236" lat="39.996430302780425" lon="116.3267910903921" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886237" lat="39.996430302780425" lon="116.32683655448164" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886238" lat="39.997812294026275" lon="116.3270685989779" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886239" lat="39.997812294026275" lon="116.32655951287288" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886240" lat="39.99931550832522" lon="116.32613918817361" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886241" lat="39.99931550832522" lon="116.32618465417661" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886242" lat="40.00069755727443" lon="116.32641669529863" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886243" lat="40.00069755727443" lon="116.32590758776713" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886244" lat="39.999840409334084" lon="116.32180317960055" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886245" lat="39.999840409334084" lon="116.3218486459522" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886246" lat="40.00122246878207" lon="116.32208060145084" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886247" lat="40.00122246878207" lon="116.32157149001523" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886248" lat="39.999831909317734" lon="116.32030137669429" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886249" lat="39.999831909317734" lon="116.32034684304043" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886250" lat="40.00121396859571" lon="116.32057876823842" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886251" lat="40.00121396859571" lon="116.32006965686459" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886252" lat="39.996928703738185" lon="116.322157081251" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886253" lat="39.996928703738185" lon="116.32220254567163" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886254" lat="39.99831070495135" lon="116.32243449845203" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886255" lat="39.99831070495135" lon="116.32192540863949" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886256" lat="39.99878050729699" lon="116.32668118940073" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886257" lat="39.99878050729699" lon="116.32672665504882" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886258" lat="40.000162545545706" lon="116.32695870528472" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886259" lat="40.000162545545706" lon="116.32644960172729" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886260" lat="39.99635430263439" lon="116.32465168627331" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886261" lat="39.99635430263439" lon="116.32469715031277" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886262" lat="39.99773629236038" lon="116.32492915143067" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886263" lat="39.99773629236038" lon="116.3244200658865" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886264" lat="39.99520100041818" lon="116.32591058909381" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886265" lat="39.99520100041818" lon="116.32595605236835" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886266" lat="39.99658296708086" lon="116.32618807495732" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886267" lat="39.99658296708086" lon="116.32567899797854" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886268" lat="39.997858605525245" lon="116.32409358469386" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886269" lat="39.997858605525245" lon="116.32413904973095" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886270" lat="39.99924062533573" lon="116.32437104469027" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886271" lat="39.99924062533573" lon="116.32386194797488" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886272" lat="39.99842600661569" lon="116.32191868029301" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886273" lat="39.99842600661569" lon="116.32196414570662" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886274" lat="39.999808037774194" lon="116.32219609874767" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886275" lat="39.999808037774194" lon="116.3216869978161" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886276" lat="39.999755509170896" lon="116.32646918866706" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886277" lat="39.999755509170896" lon="116.32651465496183" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886278" lat="40.001137566920725" lon="116.3267467042249" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886279" lat="40.001137566920725" lon="116.32623759342628" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886280" lat="39.99974830915705" lon="116.32625728825901" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886281" lat="39.99974830915705" lon="116.32630275454903" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886282" lat="40.00113036676289" lon="116.32653479951654" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886283" lat="40.00113036676289" lon="116.32602568877103" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886284" lat="39.99550210099678" lon="116.32119867986734" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886285" lat="39.99550210099678" lon="116.32124414334206" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886286" lat="39.99688407368062" lon="116.32147607197881" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886287" lat="39.99688407368062" lon="116.32096699275826" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886288" lat="39.99581700160187" lon="116.32113577964117" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886289" lat="39.99581700160187" lon="116.3211812433247" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886290" lat="39.997198980582944" lon="116.32141317175886" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886291" lat="39.997198980582944" lon="116.3209040902001" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886292" lat="39.99619350232538" lon="116.32106067937093" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886293" lat="39.99619350232538" lon="116.32110614330412" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886294" lat="39.99757548883567" lon="116.32133807149819" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886295" lat="39.99757548883567" lon="116.32082898714376" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886296" lat="39.99632470257748" lon="116.3236599843622" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886297" lat="39.99632470257748" lon="116.32370544838216" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886298" lat="39.99770669171153" lon="116.32393742941139" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886299" lat="39.99770669171153" lon="116.32342834408561" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886300" lat="39.997825005460676" lon="116.32358168371343" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886301" lat="39.997825005460676" lon="116.32362714872826" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886302" lat="39.99920702459917" lon="116.3238591332559" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886303" lat="39.99920702459917" lon="116.32335003678932" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886304" lat="39.998598306946825" lon="116.31637696950162" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886305" lat="39.998598306946825" lon="116.31642243502978" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886306" lat="39.999980341551414" lon="116.3166542769507" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
-	<node changeset="86814011" id="8639886307" lat="39.999980341551414" lon="116.31614517473622" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885944" lat="39.99873738706797" lon="116.31626415112282" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885945" lat="39.99877341293672" lon="116.3162638488771" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885946" lat="39.99893028969264" lon="116.31520858717278" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885947" lat="39.998570031032344" lon="116.31521161516743" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885948" lat="39.999150376364" lon="116.31715415608468" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885949" lat="39.99918027485894" lon="116.31712802329922" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885950" lat="39.99886256715048" lon="116.31613576859647" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885951" lat="39.998563584157836" lon="116.31639709854159" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885952" lat="39.99918027485894" lon="116.31712802329922" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885953" lat="39.999150376364" lon="116.31715415608468" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885954" lat="39.99946808539572" lon="116.3181464196704" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885955" lat="39.99976707230194" lon="116.3178850939066" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885956" lat="39.99964744444142" lon="116.31904011208977" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885957" lat="39.99968337076634" lon="116.31903661305816" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885958" lat="39.99978445280851" lon="116.31796987530927" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885959" lat="39.99942518987429" lon="116.31800487110155" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885960" lat="39.99968337076634" lon="116.31903661305816" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885961" lat="39.99964744444142" lon="116.31904011208977" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885962" lat="39.999546362599645" lon="116.32010684612658" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885963" lat="39.99990562616388" lon="116.32007186128664" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885964" lat="39.99625463087364" lon="116.32520009921768" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885965" lat="39.99621863083205" lon="116.32520184794143" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885966" lat="39.9960869837031" lon="116.32626286225057" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885967" lat="39.996446984277235" lon="116.32624538053506" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885968" lat="39.996223868948725" lon="116.32414983124318" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885969" lat="39.99618787089431" lon="116.32415164762448" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885970" lat="39.99605739399613" lon="116.32521290796333" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885971" lat="39.99641737470456" lon="116.32519474967121" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885972" lat="39.99618787089431" lon="116.32415164762448" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885973" lat="39.996223868948725" lon="116.32414983124318" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885974" lat="39.9963543461612" lon="116.32308856629834" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885975" lat="39.99599436578108" lon="116.32310673563204" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885976" lat="39.99529774313384" lon="116.32244440213614" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885977" lat="39.99530103057004" lon="116.32249104561804" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885978" lat="39.99612300539642" lon="116.32260485769748" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885979" lat="39.996090130650444" lon="116.3221384174332" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885980" lat="39.99530103057004" lon="116.32249104561804" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885981" lat="39.99529774313384" lon="116.32244440213614" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885982" lat="39.994475778122705" lon="116.32233059335007" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885983" lat="39.99450865210075" lon="116.32279702272379" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885984" lat="39.993693012632235" lon="116.32263111162678" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885985" lat="39.993696203352805" lon="116.32267776535886" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885986" lat="39.99451792051436" lon="116.3227944551454" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885987" lat="39.99448601293589" lon="116.3223279123741" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885988" lat="39.993696203352805" lon="116.32267776535886" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885989" lat="39.993693012632235" lon="116.32263111162678" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885990" lat="39.992871305278065" lon="116.32251442520163" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885991" lat="39.99290321211109" lon="116.32298095707219" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885992" lat="39.99973050114413" lon="116.31985667072655" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885993" lat="39.999694498860556" lon="116.31985492927384" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885994" lat="39.99950239447702" lon="116.32090029648424" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885995" lat="39.999862417156" lon="116.32091771653396" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885996" lat="39.99613233626559" lon="116.3223452251522" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885997" lat="39.996140063734636" lon="116.32239097485038" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885998" lat="39.99696654354311" lon="116.32237087205377" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639885999" lat="39.996889267967425" lon="116.3219133700434" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886000" lat="39.998642730902944" lon="116.31385188072068" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886001" lat="39.998678684012" lon="116.31384889020254" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886002" lat="39.99878873365186" lon="116.31278366161379" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886003" lat="39.99842920283052" lon="116.31281357228784" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886004" lat="39.99869447668091" lon="116.31490365050638" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886005" lat="39.998730429816874" lon="116.31490066053749" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886006" lat="39.99884047953913" lon="116.31383543283226" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886007" lat="39.99848094844858" lon="116.31386533801371" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886008" lat="39.998730429816874" lon="116.31490066053749" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886009" lat="39.99869447668091" lon="116.31490365050638" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886010" lat="39.99858442719116" lon="116.31596887422894" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886011" lat="39.99894395882011" lon="116.31593898003277" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886012" lat="39.99616409319503" lon="116.32260065272342" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886013" lat="39.996128122649026" lon="116.32260322938853" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886014" lat="39.99601091237582" lon="116.32366710717349" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886015" lat="39.99637061806835" lon="116.32364134602625" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886016" lat="39.996128122649026" lon="116.32260322938853" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886017" lat="39.99616409319503" lon="116.32260065272342" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886018" lat="39.99628130372803" lon="116.32153677073339" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886019" lat="39.99592159850039" lon="116.32156254288847" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886020" lat="39.99985592867319" lon="116.32607376293595" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886021" lat="39.999819922046186" lon="116.32607533947167" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886022" lat="39.99968527345748" lon="116.32713577188922" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886023" lat="40.00004533987006" lon="116.32712001205755" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886024" lat="39.999819922046186" lon="116.32607533947167" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886025" lat="39.99985592867319" lon="116.32607376293595" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886026" lat="39.99999057759446" lon="116.3250133257859" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886027" lat="39.99963051146723" lon="116.32502909666854" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886028" lat="39.99979446839459" lon="116.3240244911722" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886029" lat="39.999758471168256" lon="116.32402639542673" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886030" lat="39.99962951751784" lon="116.32508802756448" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886031" lat="39.999989489953265" lon="116.32506899053882" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886032" lat="39.999758471168256" lon="116.32402639542673" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886033" lat="39.99979446839459" lon="116.3240244911722" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886034" lat="39.999923422352836" lon="116.32296285447404" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886035" lat="39.9995634502616" lon="116.32298190253911" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886036" lat="39.99972926310943" lon="116.32194195379492" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886037" lat="39.9996932659461" lon="116.32194386006643" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886038" lat="39.99956432856231" lon="116.32300549843382" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886039" lat="39.99992430036777" lon="116.32298644123847" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886040" lat="39.9996932659461" lon="116.32194386006643" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886041" lat="39.99972926310943" lon="116.32194195379492" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886042" lat="39.999858200800986" lon="116.32088031086901" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886043" lat="39.999498229339856" lon="116.32089937910365" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886044" lat="39.99987970068605" lon="116.32819452938077" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886045" lat="39.999915699318635" lon="116.32819267061876" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886046" lat="40.00004540899648" lon="116.3271311956197" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886047" lat="39.99968542283897" lon="116.32714978876018" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886048" lat="40.00008988976987" lon="116.32825659854774" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886049" lat="40.00008831023014" lon="116.32820980145277" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886050" lat="39.999271371965605" lon="116.32804527095628" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886051" lat="39.99928716717765" lon="116.32851323638911" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886052" lat="39.996288483557834" lon="116.32629257204036" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886053" lat="39.996252516446816" lon="116.32629522795892" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886054" lat="39.99613672664708" lon="116.32735936455327" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886055" lat="39.996496397997014" lon="116.3273328108695" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886056" lat="39.99632474187988" lon="116.32716408781516" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886057" lat="39.996288737777824" lon="116.32716568983469" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886058" lat="39.99615455146993" lon="116.32822616315275" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886059" lat="39.9965145926355" lon="116.32821014848173" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886060" lat="39.996288737777824" lon="116.32716568983469" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886061" lat="39.99632474187988" lon="116.32716408781516" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886062" lat="39.99645892851823" lon="116.32610360977796" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886063" lat="39.99609888764266" lon="116.32611963549802" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886064" lat="40.00015619803921" lon="116.3217698292654" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886065" lat="40.00015821189489" lon="116.3218165981043" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886066" lat="40.000976627123435" lon="116.32196822420914" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886067" lat="40.00095648833054" lon="116.3215005303164" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886068" lat="40.00015821189489" lon="116.3218165981043" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886069" lat="40.00015619803921" lon="116.3217698292654" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886070" lat="39.99933779252784" lon="116.32161820734285" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886071" lat="39.999357930848966" lon="116.32208589022848" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886072" lat="39.999719432777844" lon="116.3207337801837" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886073" lat="39.99968340665631" lon="116.3207341250945" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886074" lat="39.99952730817718" lon="116.3217895813265" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886075" lat="39.99988756942411" lon="116.32178613775592" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886076" lat="39.99968340665631" lon="116.3207341250945" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886077" lat="39.999719432777844" lon="116.3207337801837" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886078" lat="39.999875531691" lon="116.31967831858671" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886079" lat="39.99951527050684" lon="116.31968177323196" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886080" lat="39.99887631801405" lon="116.32187031607216" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886081" lat="39.99887857885325" lon="116.3219170649774" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886082" lat="39.99969776021138" lon="116.32206137721428" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886083" lat="39.99967515155469" lon="116.32159388266766" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886084" lat="39.99887857885325" lon="116.3219170649774" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886085" lat="39.99887631801405" lon="116.32187031607216" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886086" lat="39.99805714639374" lon="116.3217260078468" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886087" lat="39.99807975452108" lon="116.3221934914047" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886088" lat="39.99732988675125" lon="116.32206960985042" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886089" lat="39.99733434792272" lon="116.32211608973046" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886090" lat="39.99815877149329" lon="116.32219482408172" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886091" lat="39.998114159259394" lon="116.32173001991318" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886092" lat="39.99733434792272" lon="116.32211608973046" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886093" lat="39.99732988675125" lon="116.32206960985042" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886094" lat="39.99650547306909" lon="116.3219908779565" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
+	<node changeset="86814011" id="8639886095" lat="39.99655008426448" lon="116.3224556713889" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true" />
 	<way changeset="86814011" id="22799951" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="974490968" />
 		<nd ref="975579498" />
@@ -1749,6 +1537,7 @@
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="tertiary" />
 		<tag k="name" v="清华路" />
+		<tag k="id" v="22799951" />
 	</way>
 	<way changeset="86814011" id="22799992" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="992548499" />
@@ -1758,6 +1547,7 @@
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="tertiary" />
 		<tag k="name" v="日新路" />
+		<tag k="id" v="22799992" />
 	</way>
 	<way changeset="86814011" id="28416144" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="245130060" />
@@ -1769,6 +1559,7 @@
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="service" />
 		<tag k="oneway" v="yes" />
+		<tag k="id" v="28416144" />
 	</way>
 	<way changeset="86814011" id="28440872" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="975801331" />
@@ -1782,6 +1573,7 @@
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="service" />
 		<tag k="oneway" v="yes" />
+		<tag k="id" v="28440872" />
 	</way>
 	<way changeset="86814011" id="30663333" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2614375151" />
@@ -1822,6 +1614,7 @@
 		<nd ref="339101612" />
 		<nd ref="1360087386" />
 		<nd ref="339101410" />
+		<tag k="id" v="30663333" />
 	</way>
 	<way changeset="86814011" id="32954720" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="371156466" />
@@ -1829,6 +1622,7 @@
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="service" />
 		<tag k="name" v="熙春路" />
+		<tag k="id" v="32954720" />
 	</way>
 	<way changeset="86814011" id="32954774" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354058500" />
@@ -1842,6 +1636,7 @@
 		<nd ref="371156933" />
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="unclassified" />
+		<tag k="id" v="32954774" />
 	</way>
 	<way changeset="86814011" id="32954781" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="380744565" />
@@ -1862,6 +1657,7 @@
 		<nd ref="7959888856" />
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="residential" />
+		<tag k="id" v="32954781" />
 	</way>
 	<way changeset="86814011" id="32954897" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="974490968" />
@@ -1874,6 +1670,7 @@
 		<nd ref="989838623" />
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="32954897" />
 	</way>
 	<way changeset="86814011" id="33431801" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="371156467" />
@@ -1890,6 +1687,7 @@
 		<tag k="highway" v="service" />
 		<tag k="name" v="熙春路" />
 		<tag k="name:en" v="Xichun Road" />
+		<tag k="id" v="33431801" />
 	</way>
 	<way changeset="86814011" id="33431890" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="380420404" />
@@ -1909,6 +1707,7 @@
 		<nd ref="380420404" />
 		<tag k="landuse" v="forest" />
 		<tag k="leisure" v="park" />
+		<tag k="id" v="33431890" />
 	</way>
 	<way changeset="86814011" id="33432085" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="380422646" />
@@ -1916,6 +1715,7 @@
 		<nd ref="380422648" />
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="33432085" />
 	</way>
 	<way changeset="86814011" id="33432093" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="380422691" />
@@ -1927,6 +1727,7 @@
 		<nd ref="380423674" />
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="33432093" />
 	</way>
 	<way changeset="86814011" id="33432094" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="380422714" />
@@ -1935,6 +1736,7 @@
 		<nd ref="2353978475" />
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="residential" />
+		<tag k="id" v="33432094" />
 	</way>
 	<way changeset="86814011" id="33432105" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="380423315" />
@@ -1943,6 +1745,7 @@
 		<nd ref="380423854" />
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="33432105" />
 	</way>
 	<way changeset="86814011" id="33457978" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="380747018" />
@@ -1959,6 +1762,7 @@
 		<nd ref="380747018" />
 		<tag k="building" v="yes" />
 		<tag k="name" v="FIT (Future Internet Technology)" />
+		<tag k="id" v="33457978" />
 	</way>
 	<way changeset="86814011" id="33460758" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="380771913" />
@@ -1969,6 +1773,7 @@
 		<tag k="landuse" v="retail" />
 		<tag k="name" v="照澜院" />
 		<tag k="name:en" v="Zhao Lan Yuan" />
+		<tag k="id" v="33460758" />
 	</way>
 	<way changeset="86814011" id="42364942" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="371156966" />
@@ -1980,6 +1785,7 @@
 		<nd ref="371156968" />
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="residential" />
+		<tag k="id" v="42364942" />
 	</way>
 	<way changeset="86814011" id="42415934" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="529544520" />
@@ -1994,6 +1800,7 @@
 		<tag k="highway" v="tertiary" />
 		<tag k="name" v="学堂路" />
 		<tag k="name:en" v="Xuetang Road" />
+		<tag k="id" v="42415934" />
 	</way>
 	<way changeset="86814011" id="79697524" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="4723474912" />
@@ -2017,6 +1824,7 @@
 		<tag k="highway" v="service" />
 		<tag k="name" v="新民路" />
 		<tag k="name:en" v="Xinmin Road" />
+		<tag k="id" v="79697524" />
 	</way>
 	<way changeset="86814011" id="79699845" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="930121758" />
@@ -2047,6 +1855,7 @@
 		<tag k="building:levels" v="11" />
 		<tag k="name" v="中央主楼" />
 		<tag k="name:en" v="Main Bldg" />
+		<tag k="id" v="79699845" />
 	</way>
 	<way changeset="86814011" id="79699846" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="937453401" />
@@ -2069,6 +1878,7 @@
 		<tag k="building" v="yes" />
 		<tag k="name" v="西主楼" />
 		<tag k="name:en" v="West Main Bldg" />
+		<tag k="id" v="79699846" />
 	</way>
 	<way changeset="86814011" id="79699857" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="930123973" />
@@ -2078,6 +1888,7 @@
 		<nd ref="930123973" />
 		<tag k="building" v="yes" />
 		<tag k="layer" v="1" />
+		<tag k="id" v="79699857" />
 	</way>
 	<way changeset="86814011" id="79699858" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="937453427" />
@@ -2087,6 +1898,7 @@
 		<nd ref="937453427" />
 		<tag k="building" v="yes" />
 		<tag k="layer" v="1" />
+		<tag k="id" v="79699858" />
 	</way>
 	<way changeset="86814011" id="79699868" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="930126601" />
@@ -2096,6 +1908,7 @@
 		<nd ref="930126601" />
 		<tag k="building" v="yes" />
 		<tag k="layer" v="1" />
+		<tag k="id" v="79699868" />
 	</way>
 	<way changeset="86814011" id="79700258" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="930130239" />
@@ -2118,6 +1931,7 @@
 		<tag k="name" v="文南楼" />
 		<tag k="name:en" v="Wennan Bldg" />
 		<tag k="operator" v="外国语言文学系" />
+		<tag k="id" v="79700258" />
 	</way>
 	<way changeset="86814011" id="79701306" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="930137222" />
@@ -2128,6 +1942,7 @@
 		<tag k="building" v="yes" />
 		<tag k="name" v="第一教学楼" />
 		<tag k="name:en" v="No. 1 Teaching Bldg" />
+		<tag k="id" v="79701306" />
 	</way>
 	<way changeset="86814011" id="80320283" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="937461945" />
@@ -2138,6 +1953,7 @@
 		<nd ref="245130108" />
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="cycleway" />
+		<tag k="id" v="80320283" />
 	</way>
 	<way changeset="86814011" id="80320285" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="245130062" />
@@ -2146,6 +1962,7 @@
 		<nd ref="937461946" />
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="cycleway" />
+		<tag k="id" v="80320285" />
 	</way>
 	<way changeset="86814011" id="80320288" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="937460783" />
@@ -2154,6 +1971,7 @@
 		<tag k="access" v="permissive" />
 		<tag k="covered" v="yes" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="80320288" />
 	</way>
 	<way changeset="86814011" id="80320305" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="953857984" />
@@ -2180,6 +1998,7 @@
 		<tag k="bicycle" v="designated" />
 		<tag k="foot" v="designated" />
 		<tag k="highway" v="cycleway" />
+		<tag k="id" v="80320305" />
 	</way>
 	<way changeset="86814011" id="80320310" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="937462102" />
@@ -2208,6 +2027,7 @@
 		<tag k="name" v="9003大楼" />
 		<tag k="name:en" v="Department of Precision Instruments (9003 Building)" />
 		<tag k="operator" v="精密仪器与机械学系" />
+		<tag k="id" v="80320310" />
 	</way>
 	<way changeset="86814011" id="80341983" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="937631103" />
@@ -2225,6 +2045,7 @@
 		<tag k="name" v="明理楼 （法学院）" />
 		<tag k="name:en" v="Ming Li Building (School of Law)" />
 		<tag k="operator" v="法学院" />
+		<tag k="id" v="80341983" />
 	</way>
 	<way changeset="86814011" id="80342017" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="937631986" />
@@ -2251,6 +2072,7 @@
 		<tag k="name" v="建筑馆" />
 		<tag k="name:en" v="Architecture Hall" />
 		<tag k="operator" v="建筑学院" />
+		<tag k="id" v="80342017" />
 	</way>
 	<way changeset="86814011" id="80716138" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="941368695" />
@@ -2259,6 +2081,7 @@
 		<nd ref="941368698" />
 		<nd ref="941368695" />
 		<tag k="landuse" v="grass" />
+		<tag k="id" v="80716138" />
 	</way>
 	<way changeset="86814011" id="80716139" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="941368699" />
@@ -2269,6 +2092,7 @@
 		<nd ref="941368704" />
 		<nd ref="941368699" />
 		<tag k="landuse" v="grass" />
+		<tag k="id" v="80716139" />
 	</way>
 	<way changeset="86814011" id="80716141" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="941368706" />
@@ -2279,6 +2103,7 @@
 		<nd ref="941368712" />
 		<nd ref="941368706" />
 		<tag k="landuse" v="grass" />
+		<tag k="id" v="80716141" />
 	</way>
 	<way changeset="86814011" id="80716144" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="941368715" />
@@ -2289,6 +2114,7 @@
 		<nd ref="941368721" />
 		<nd ref="941368715" />
 		<tag k="landuse" v="grass" />
+		<tag k="id" v="80716144" />
 	</way>
 	<way changeset="86814011" id="80716147" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="941368724" />
@@ -2299,6 +2125,7 @@
 		<nd ref="941368729" />
 		<nd ref="941368724" />
 		<tag k="landuse" v="grass" />
+		<tag k="id" v="80716147" />
 	</way>
 	<way changeset="86814011" id="80716150" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="941368732" />
@@ -2314,6 +2141,7 @@
 		<nd ref="941368743" />
 		<nd ref="941368732" />
 		<tag k="landuse" v="grass" />
+		<tag k="id" v="80716150" />
 	</way>
 	<way changeset="86814011" id="80716151" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="941368745" />
@@ -2324,6 +2152,7 @@
 		<nd ref="941368749" />
 		<nd ref="941368745" />
 		<tag k="landuse" v="grass" />
+		<tag k="id" v="80716151" />
 	</way>
 	<way changeset="86814011" id="80716153" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="941368752" />
@@ -2340,6 +2169,7 @@
 		<nd ref="6959725334" />
 		<nd ref="941368752" />
 		<tag k="landuse" v="grass" />
+		<tag k="id" v="80716153" />
 	</way>
 	<way changeset="86814011" id="80716154" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="941368761" />
@@ -2348,6 +2178,7 @@
 		<nd ref="941368764" />
 		<nd ref="941368761" />
 		<tag k="landuse" v="grass" />
+		<tag k="id" v="80716154" />
 	</way>
 	<way changeset="86814011" id="80716155" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="941368765" />
@@ -2356,6 +2187,7 @@
 		<nd ref="941368768" />
 		<nd ref="941368765" />
 		<tag k="landuse" v="grass" />
+		<tag k="id" v="80716155" />
 	</way>
 	<way changeset="86814011" id="80716851" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="941374344" />
@@ -2366,6 +2198,7 @@
 		<nd ref="941374349" />
 		<nd ref="941374344" />
 		<tag k="building" v="yes" />
+		<tag k="id" v="80716851" />
 	</way>
 	<way changeset="86814011" id="80716852" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="941374350" />
@@ -2374,6 +2207,7 @@
 		<nd ref="941374353" />
 		<nd ref="941374350" />
 		<tag k="building" v="yes" />
+		<tag k="id" v="80716852" />
 	</way>
 	<way changeset="86814011" id="80716853" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="941374354" />
@@ -2382,6 +2216,7 @@
 		<nd ref="941374357" />
 		<nd ref="941374354" />
 		<tag k="building" v="yes" />
+		<tag k="id" v="80716853" />
 	</way>
 	<way changeset="86814011" id="80916520" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="943360350" />
@@ -2395,6 +2230,7 @@
 		<nd ref="943360350" />
 		<tag k="landuse" v="construction" />
 		<tag k="name" v="经管学院" />
+		<tag k="id" v="80916520" />
 	</way>
 	<way changeset="86814011" id="80916524" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="943360425" />
@@ -2405,6 +2241,7 @@
 		<tag k="building" v="yes" />
 		<tag k="name" v="纳米科技楼" />
 		<tag k="name:en" v="Nanotechnology Building" />
+		<tag k="id" v="80916524" />
 	</way>
 	<way changeset="86814011" id="80916617" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="943362709" />
@@ -2414,6 +2251,7 @@
 		<nd ref="943362709" />
 		<tag k="building" v="yes" />
 		<tag k="name" v="服务楼" />
+		<tag k="id" v="80916617" />
 	</way>
 	<way changeset="86814011" id="81151484" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="945710806" />
@@ -2434,6 +2272,7 @@
 		<tag k="building" v="yes" />
 		<tag k="name" v="技术科学楼" />
 		<tag k="name:en" v="Technology and Science Bldg" />
+		<tag k="id" v="81151484" />
 	</way>
 	<way changeset="86814011" id="81151546" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="945710995" />
@@ -2449,6 +2288,7 @@
 		<tag k="building" v="yes" />
 		<tag k="name" v="液晶大楼" />
 		<tag k="name:en" v="Liquid Crystal Bldg" />
+		<tag k="id" v="81151546" />
 	</way>
 	<way changeset="86814011" id="81813448" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="937460784" />
@@ -2472,6 +2312,7 @@
 		<tag k="access" v="permissive" />
 		<tag k="name" v="清华路" />
 		<tag k="place" v="square" />
+		<tag k="id" v="81813448" />
 	</way>
 	<way changeset="86814011" id="83689106" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="245133116" />
@@ -2494,6 +2335,7 @@
 		<tag k="layer" v="-1" />
 		<tag k="name" v="万泉河" />
 		<tag k="waterway" v="river" />
+		<tag k="id" v="83689106" />
 	</way>
 	<way changeset="86814011" id="83689107" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="974490968" />
@@ -2503,6 +2345,7 @@
 		<tag k="highway" v="tertiary" />
 		<tag k="name" v="清华路" />
 		<tag k="name:en" v="Tsinghua Road" />
+		<tag k="id" v="83689107" />
 	</way>
 	<way changeset="86814011" id="83689620" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="974503701" />
@@ -2511,6 +2354,7 @@
 		<tag k="bridge" v="yes" />
 		<tag k="highway" v="service" />
 		<tag k="name" v="熙春路" />
+		<tag k="id" v="83689620" />
 	</way>
 	<way changeset="86814011" id="83690611" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="953857987" />
@@ -2524,6 +2368,7 @@
 		<nd ref="953857984" />
 		<tag k="highway" v="service" />
 		<tag k="oneway" v="yes" />
+		<tag k="id" v="83690611" />
 	</way>
 	<way changeset="86814011" id="83690613" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="974534962" />
@@ -2534,6 +2379,7 @@
 		<tag k="access" v="permissive" />
 		<tag k="area" v="yes" />
 		<tag k="highway" v="steps" />
+		<tag k="id" v="83690613" />
 	</way>
 	<way changeset="86814011" id="83785675" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="380422645" />
@@ -2550,6 +2396,7 @@
 		<nd ref="371156465" />
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="83785675" />
 	</way>
 	<way changeset="86814011" id="83785990" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="975557688" />
@@ -2571,6 +2418,7 @@
 		<tag k="building" v="yes" />
 		<tag k="name" v="能科楼" />
 		<tag k="name:en" v="Energy Sciences Bldg" />
+		<tag k="id" v="83785990" />
 	</way>
 	<way changeset="86814011" id="83787060" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="975566065" />
@@ -2579,6 +2427,7 @@
 		<nd ref="975566047" />
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="83787060" />
 	</way>
 	<way changeset="86814011" id="83789639" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="975579517" />
@@ -2588,6 +2437,7 @@
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="service" />
 		<tag k="oneway" v="yes" />
+		<tag k="id" v="83789639" />
 	</way>
 	<way changeset="86814011" id="83789640" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="975579498" />
@@ -2597,12 +2447,14 @@
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="service" />
 		<tag k="oneway" v="yes" />
+		<tag k="id" v="83789640" />
 	</way>
 	<way changeset="86814011" id="83789644" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="975579517" />
 		<nd ref="380422185" />
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="83789644" />
 	</way>
 	<way changeset="86814011" id="83800912" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="245133700" />
@@ -2610,6 +2462,7 @@
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="tertiary" />
 		<tag k="name" v="学堂路" />
+		<tag k="id" v="83800912" />
 	</way>
 	<way changeset="86814011" id="83800913" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354058500" />
@@ -2620,6 +2473,7 @@
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="residential" />
 		<tag k="name" v="熙春路" />
+		<tag k="id" v="83800913" />
 	</way>
 	<way changeset="86814011" id="83800914" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="371156467" />
@@ -2628,6 +2482,7 @@
 		<tag k="highway" v="tertiary" />
 		<tag k="name" v="清华路" />
 		<tag k="name:en" v="Tsinghua Road" />
+		<tag k="id" v="83800914" />
 	</way>
 	<way changeset="86814011" id="83805169" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="975701211" />
@@ -2639,6 +2494,7 @@
 		<tag k="name" v="焊接馆" />
 		<tag k="name:en" v="Welding Bldg" />
 		<tag k="operator" v="机械工程系" />
+		<tag k="id" v="83805169" />
 	</way>
 	<way changeset="86814011" id="83805332" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="975702234" />
@@ -2646,6 +2502,7 @@
 		<nd ref="2354034765" />
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="83805332" />
 	</way>
 	<way changeset="86814011" id="83806365" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="975718033" />
@@ -2653,6 +2510,7 @@
 		<nd ref="975718038" />
 		<nd ref="975718040" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="83806365" />
 	</way>
 	<way changeset="86814011" id="83810378" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="975747673" />
@@ -2668,6 +2526,7 @@
 		<tag k="name" v="机械工程楼" />
 		<tag k="name:en" v="Mechanical Engineering Bldg" />
 		<tag k="operator" v="热能工程系" />
+		<tag k="id" v="83810378" />
 	</way>
 	<way changeset="86814011" id="83892761" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="937461941" />
@@ -2675,6 +2534,7 @@
 		<nd ref="937461942" />
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="footway" />
+		<tag k="id" v="83892761" />
 	</way>
 	<way changeset="86814011" id="83892762" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="937461938" />
@@ -2685,6 +2545,7 @@
 		<nd ref="7959888852" />
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="footway" />
+		<tag k="id" v="83892762" />
 	</way>
 	<way changeset="86814011" id="83979946" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="977224076" />
@@ -2692,6 +2553,7 @@
 		<nd ref="977224086" />
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="83979946" />
 	</way>
 	<way changeset="86814011" id="83990422" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="977224086" />
@@ -2699,6 +2561,7 @@
 		<nd ref="977305209" />
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="83990422" />
 	</way>
 	<way changeset="86814011" id="83990423" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="977224086" />
@@ -2706,6 +2569,7 @@
 		<nd ref="977305209" />
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="83990423" />
 	</way>
 	<way changeset="86814011" id="83990424" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="977305209" />
@@ -2714,6 +2578,7 @@
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="service" />
 		<tag k="surface" v="cobblestone" />
+		<tag k="id" v="83990424" />
 	</way>
 	<way changeset="86814011" id="83990425" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="977305213" />
@@ -2724,6 +2589,7 @@
 		<tag k="building" v="yes" />
 		<tag k="name" v="旧水利馆" />
 		<tag k="name:en" v="Old Civil Engineering Bldg" />
+		<tag k="id" v="83990425" />
 	</way>
 	<way changeset="86814011" id="83990426" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="977305218" />
@@ -2742,6 +2608,7 @@
 		<tag k="building" v="yes" />
 		<tag k="name" v="旧土木馆" />
 		<tag k="name:en" v="Old Civil Engineering Bldg" />
+		<tag k="id" v="83990426" />
 	</way>
 	<way changeset="86814011" id="84273994" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="980098221" />
@@ -2756,6 +2623,7 @@
 		<tag k="building" v="yes" />
 		<tag k="name" v="静斋" />
 		<tag k="name:en" v="Jing Zhai" />
+		<tag k="id" v="84273994" />
 	</way>
 	<way changeset="86814011" id="84273995" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="980098251" />
@@ -2765,6 +2633,7 @@
 		<nd ref="980098251" />
 		<tag k="building" v="yes" />
 		<tag k="name" v="熙春园餐厅" />
+		<tag k="id" v="84273995" />
 	</way>
 	<way changeset="86814011" id="84336744" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="980673795" />
@@ -2790,6 +2659,7 @@
 		<nd ref="980673881" />
 		<nd ref="980673795" />
 		<tag k="leisure" v="park" />
+		<tag k="id" v="84336744" />
 	</way>
 	<way changeset="86814011" id="84653292" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="937453446" />
@@ -2809,6 +2679,7 @@
 		<nd ref="937453446" />
 		<tag k="building" v="yes" />
 		<tag k="name" v="东配楼" />
+		<tag k="id" v="84653292" />
 	</way>
 	<way changeset="86814011" id="84653293" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="975702263" />
@@ -2840,6 +2711,7 @@
 		<tag k="building:levels" v="6" />
 		<tag k="name" v="经济管理学院" />
 		<tag k="name:en" v="School of Economics and Management" />
+		<tag k="id" v="84653293" />
 	</way>
 	<way changeset="86814011" id="84653294" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="983373910" />
@@ -2863,6 +2735,7 @@
 		<tag k="building" v="yes" />
 		<tag k="name" v="东主楼" />
 		<tag k="name:en" v="East Main Bldg" />
+		<tag k="id" v="84653294" />
 	</way>
 	<way changeset="86814011" id="84720894" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="983942272" />
@@ -2871,6 +2744,7 @@
 		<nd ref="983942276" />
 		<nd ref="983942272" />
 		<tag k="building" v="yes" />
+		<tag k="id" v="84720894" />
 	</way>
 	<way changeset="86814011" id="84727245" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="984042449" />
@@ -2880,6 +2754,7 @@
 		<nd ref="984042449" />
 		<tag k="building" v="yes" />
 		<tag k="name" v="邮局" />
+		<tag k="id" v="84727245" />
 	</way>
 	<way changeset="86814011" id="85553379" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="992548467" />
@@ -2895,18 +2770,21 @@
 		<tag k="name" v="微电子所" />
 		<tag k="name:en" v="Institute of Microelectronics" />
 		<tag k="operator" v="微电子学研究所" />
+		<tag k="id" v="85553379" />
 	</way>
 	<way changeset="86814011" id="85553381" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="245133700" />
 		<nd ref="992548499" />
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="tertiary" />
+		<tag k="id" v="85553381" />
 	</way>
 	<way changeset="86814011" id="85553387" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="992548494" />
 		<nd ref="2354034768" />
 		<nd ref="2354034765" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="85553387" />
 	</way>
 	<way changeset="86814011" id="85553747" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="992562851" />
@@ -2919,6 +2797,7 @@
 		<nd ref="992562828" />
 		<nd ref="992562851" />
 		<tag k="building" v="yes" />
+		<tag k="id" v="85553747" />
 	</way>
 	<way changeset="86814011" id="158112141" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="1703721211" />
@@ -2943,6 +2822,7 @@
 		<tag k="building" v="yes" />
 		<tag k="name" v="新清华学堂" />
 		<tag k="name:en" v="New Tsinghua Auditorium" />
+		<tag k="id" v="158112141" />
 	</way>
 	<way changeset="86814011" id="220690715" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2297835533" />
@@ -2964,11 +2844,13 @@
 		<nd ref="2297835539" />
 		<nd ref="2297835533" />
 		<tag k="landuse" v="grass" />
+		<tag k="id" v="220690715" />
 	</way>
 	<way changeset="86814011" id="226625386" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354028231" />
 		<nd ref="380738600" />
 		<tag k="highway" v="residential" />
+		<tag k="id" v="226625386" />
 	</way>
 	<way changeset="86814011" id="226625500" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354032558" />
@@ -2978,6 +2860,7 @@
 		<nd ref="2354032567" />
 		<nd ref="2354032558" />
 		<tag k="amenity" v="parking" />
+		<tag k="id" v="226625500" />
 	</way>
 	<way changeset="86814011" id="226628306" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="380423854" />
@@ -2986,6 +2869,7 @@
 		<nd ref="380423857" />
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="226628306" />
 	</way>
 	<way changeset="86814011" id="226628307" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="380423854" />
@@ -2994,6 +2878,7 @@
 		<nd ref="943362689" />
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="226628307" />
 	</way>
 	<way changeset="86814011" id="226628639" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="380422691" />
@@ -3001,6 +2886,7 @@
 		<nd ref="2354047235" />
 		<nd ref="2354047236" />
 		<tag k="highway" v="footway" />
+		<tag k="id" v="226628639" />
 	</way>
 	<way changeset="86814011" id="226628792" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354048206" />
@@ -3014,6 +2900,7 @@
 		<nd ref="2354048206" />
 		<tag k="amenity" v="kindergarten" />
 		<tag k="name" v="清华大学洁华幼儿园" />
+		<tag k="id" v="226628792" />
 	</way>
 	<way changeset="86814011" id="226629912" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354050156" />
@@ -3025,6 +2912,7 @@
 		<tag k="foot" v="designated" />
 		<tag k="highway" v="path" />
 		<tag k="segregated" v="no" />
+		<tag k="id" v="226629912" />
 	</way>
 	<way changeset="86814011" id="226631077" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354052926" />
@@ -3033,6 +2921,7 @@
 		<nd ref="945710996" />
 		<nd ref="2354052926" />
 		<tag k="building" v="yes" />
+		<tag k="id" v="226631077" />
 	</way>
 	<way changeset="86814011" id="226631638" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="6959725348" />
@@ -3048,6 +2937,7 @@
 		<tag k="highway" v="tertiary" />
 		<tag k="name" v="清华路" />
 		<tag k="name:en" v="Tsinghua Road" />
+		<tag k="id" v="226631638" />
 	</way>
 	<way changeset="86814011" id="226632802" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354058494" />
@@ -3059,16 +2949,19 @@
 		<nd ref="2354058494" />
 		<tag k="building" v="yes" />
 		<tag k="name" v="熊知行楼" />
+		<tag k="id" v="226632802" />
 	</way>
 	<way changeset="86814011" id="226633273" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354063848" />
 		<nd ref="2354063851" />
 		<tag k="highway" v="residential" />
+		<tag k="id" v="226633273" />
 	</way>
 	<way changeset="86814011" id="226633384" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354067338" />
 		<nd ref="2354067339" />
 		<tag k="highway" v="residential" />
+		<tag k="id" v="226633384" />
 	</way>
 	<way changeset="86814011" id="226633385" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354067342" />
@@ -3076,11 +2969,13 @@
 		<nd ref="2354067340" />
 		<nd ref="2354067341" />
 		<tag k="highway" v="residential" />
+		<tag k="id" v="226633385" />
 	</way>
 	<way changeset="86814011" id="226633386" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="380423854" />
 		<nd ref="2354067344" />
 		<tag k="highway" v="residential" />
+		<tag k="id" v="226633386" />
 	</way>
 	<way changeset="86814011" id="226633387" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354067344" />
@@ -3088,6 +2983,7 @@
 		<nd ref="2354067346" />
 		<nd ref="2354067347" />
 		<tag k="highway" v="residential" />
+		<tag k="id" v="226633387" />
 	</way>
 	<way changeset="86814011" id="226633489" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354067818" />
@@ -3095,11 +2991,13 @@
 		<tag k="bridge" v="yes" />
 		<tag k="foot" v="yes" />
 		<tag k="highway" v="cycleway" />
+		<tag k="id" v="226633489" />
 	</way>
 	<way changeset="86814011" id="226667861" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="992548487" />
 		<nd ref="2354346960" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="226667861" />
 	</way>
 	<way changeset="86814011" id="226667862" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354346961" />
@@ -3115,16 +3013,19 @@
 		<nd ref="2354346969" />
 		<nd ref="2354346961" />
 		<tag k="landuse" v="grass" />
+		<tag k="id" v="226667862" />
 	</way>
 	<way changeset="86814011" id="226667881" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354347156" />
 		<nd ref="2354347157" />
 		<tag k="highway" v="cycleway" />
+		<tag k="id" v="226667881" />
 	</way>
 	<way changeset="86814011" id="226667888" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354347191" />
 		<nd ref="2354347192" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="226667888" />
 	</way>
 	<way changeset="86814011" id="226667889" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354346960" />
@@ -3132,6 +3033,7 @@
 		<tag k="bicycle" v="designated" />
 		<tag k="foot" v="designated" />
 		<tag k="highway" v="cycleway" />
+		<tag k="id" v="226667889" />
 	</way>
 	<way changeset="86814011" id="226667894" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354347641" />
@@ -3140,6 +3042,7 @@
 		<nd ref="2354347647" />
 		<nd ref="2354347641" />
 		<tag k="leisure" v="park" />
+		<tag k="id" v="226667894" />
 	</way>
 	<way changeset="86814011" id="226667976" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354348353" />
@@ -3154,6 +3057,7 @@
 		<tag k="building" v="yes" />
 		<tag k="name" v="公共管理学院" />
 		<tag k="name:en" v="School of Public Policy and Management" />
+		<tag k="id" v="226667976" />
 	</way>
 	<way changeset="86814011" id="226667977" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354348361" />
@@ -3162,6 +3066,7 @@
 		<nd ref="2354348364" />
 		<nd ref="2354348361" />
 		<tag k="landuse" v="grass" />
+		<tag k="id" v="226667977" />
 	</way>
 	<way changeset="86814011" id="226668053" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354349060" />
@@ -3173,6 +3078,7 @@
 		<nd ref="2354349066" />
 		<nd ref="2354349067" />
 		<tag k="highway" v="unclassified" />
+		<tag k="id" v="226668053" />
 	</way>
 	<way changeset="86814011" id="226668211" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354350814" />
@@ -3182,6 +3088,7 @@
 		<nd ref="2354350818" />
 		<nd ref="2354350814" />
 		<tag k="amenity" v="parking" />
+		<tag k="id" v="226668211" />
 	</way>
 	<way changeset="86814011" id="226668655" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354354304" />
@@ -3191,6 +3098,7 @@
 		<nd ref="2354354304" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="中6楼" />
+		<tag k="id" v="226668655" />
 	</way>
 	<way changeset="86814011" id="226668656" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354354303" />
@@ -3200,6 +3108,7 @@
 		<nd ref="2354354303" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="中5楼" />
+		<tag k="id" v="226668656" />
 	</way>
 	<way changeset="86814011" id="226668657" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354354312" />
@@ -3209,6 +3118,7 @@
 		<nd ref="2354354312" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="中4楼" />
+		<tag k="id" v="226668657" />
 	</way>
 	<way changeset="86814011" id="226668658" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354354320" />
@@ -3218,6 +3128,7 @@
 		<nd ref="2354354320" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="中2楼" />
+		<tag k="id" v="226668658" />
 	</way>
 	<way changeset="86814011" id="226668659" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354354319" />
@@ -3227,6 +3138,7 @@
 		<nd ref="2354354319" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="中1楼" />
+		<tag k="id" v="226668659" />
 	</way>
 	<way changeset="86814011" id="226668660" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354354311" />
@@ -3236,6 +3148,7 @@
 		<nd ref="2354354311" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="中3楼" />
+		<tag k="id" v="226668660" />
 	</way>
 	<way changeset="86814011" id="226668675" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354354423" />
@@ -3245,6 +3158,7 @@
 		<nd ref="2354354423" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="西11楼" />
+		<tag k="id" v="226668675" />
 	</way>
 	<way changeset="86814011" id="226668677" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354354411" />
@@ -3254,6 +3168,7 @@
 		<nd ref="2354354411" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="西14楼" />
+		<tag k="id" v="226668677" />
 	</way>
 	<way changeset="86814011" id="226668697" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354354501" />
@@ -3263,6 +3178,7 @@
 		<nd ref="2354354501" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="7公寓" />
+		<tag k="id" v="226668697" />
 	</way>
 	<way changeset="86814011" id="226668698" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354354517" />
@@ -3272,6 +3188,7 @@
 		<nd ref="2354354517" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="3公寓" />
+		<tag k="id" v="226668698" />
 	</way>
 	<way changeset="86814011" id="226668699" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354354509" />
@@ -3281,6 +3198,7 @@
 		<nd ref="2354354509" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="5公寓" />
+		<tag k="id" v="226668699" />
 	</way>
 	<way changeset="86814011" id="226668703" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354354585" />
@@ -3294,6 +3212,7 @@
 		<nd ref="2354354585" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="西南19" />
+		<tag k="id" v="226668703" />
 	</way>
 	<way changeset="86814011" id="226668705" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354354580" />
@@ -3303,6 +3222,7 @@
 		<nd ref="2354354580" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="西南18" />
+		<tag k="id" v="226668705" />
 	</way>
 	<way changeset="86814011" id="226668711" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354354589" />
@@ -3312,6 +3232,7 @@
 		<nd ref="2354354589" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="西南20" />
+		<tag k="id" v="226668711" />
 	</way>
 	<way changeset="86814011" id="226668723" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354354661" />
@@ -3320,6 +3241,7 @@
 		<nd ref="2354354660" />
 		<nd ref="2354354661" />
 		<tag k="building" v="yes" />
+		<tag k="id" v="226668723" />
 	</way>
 	<way changeset="86814011" id="226668725" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354354669" />
@@ -3328,6 +3250,7 @@
 		<nd ref="2354354668" />
 		<nd ref="2354354669" />
 		<tag k="building" v="yes" />
+		<tag k="id" v="226668725" />
 	</way>
 	<way changeset="86814011" id="226668726" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354354665" />
@@ -3336,6 +3259,7 @@
 		<nd ref="2354354664" />
 		<nd ref="2354354665" />
 		<tag k="building" v="yes" />
+		<tag k="id" v="226668726" />
 	</way>
 	<way changeset="86814011" id="226668727" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354354657" />
@@ -3344,6 +3268,7 @@
 		<nd ref="2354354656" />
 		<nd ref="2354354657" />
 		<tag k="building" v="yes" />
+		<tag k="id" v="226668727" />
 	</way>
 	<way changeset="86814011" id="226669002" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354368604" />
@@ -3353,6 +3278,7 @@
 		<nd ref="2354368604" />
 		<tag k="building" v="yes" />
 		<tag k="name" v="清华大学出版社" />
+		<tag k="id" v="226669002" />
 	</way>
 	<way changeset="86814011" id="226669003" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354368593" />
@@ -3362,6 +3288,7 @@
 		<nd ref="2354368593" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="南6楼" />
+		<tag k="id" v="226669003" />
 	</way>
 	<way changeset="86814011" id="226669004" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354368597" />
@@ -3371,6 +3298,7 @@
 		<nd ref="2354368597" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="南7楼" />
+		<tag k="id" v="226669004" />
 	</way>
 	<way changeset="86814011" id="226669005" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354368607" />
@@ -3380,6 +3308,7 @@
 		<nd ref="2354368607" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="南10楼" />
+		<tag k="id" v="226669005" />
 	</way>
 	<way changeset="86814011" id="226669006" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354368589" />
@@ -3389,6 +3318,7 @@
 		<nd ref="2354368589" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="南5楼" />
+		<tag k="id" v="226669006" />
 	</way>
 	<way changeset="86814011" id="226669007" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354368610" />
@@ -3398,6 +3328,7 @@
 		<nd ref="2354368610" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="南9楼" />
+		<tag k="id" v="226669007" />
 	</way>
 	<way changeset="86814011" id="226669008" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354368601" />
@@ -3407,6 +3338,7 @@
 		<nd ref="2354368601" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="南8楼" />
+		<tag k="id" v="226669008" />
 	</way>
 	<way changeset="86814011" id="226669016" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354368647" />
@@ -3416,6 +3348,7 @@
 		<nd ref="2354368647" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="东6楼" />
+		<tag k="id" v="226669016" />
 	</way>
 	<way changeset="86814011" id="226669017" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354368639" />
@@ -3425,6 +3358,7 @@
 		<nd ref="2354368639" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="东7楼" />
+		<tag k="id" v="226669017" />
 	</way>
 	<way changeset="86814011" id="226669018" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354368645" />
@@ -3434,6 +3368,7 @@
 		<nd ref="2354368645" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="东11楼" />
+		<tag k="id" v="226669018" />
 	</way>
 	<way changeset="86814011" id="226669019" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354368634" />
@@ -3443,6 +3378,7 @@
 		<nd ref="2354368634" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="东15楼" />
+		<tag k="id" v="226669019" />
 	</way>
 	<way changeset="86814011" id="226669020" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354368630" />
@@ -3452,6 +3388,7 @@
 		<nd ref="2354368630" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="东16楼" />
+		<tag k="id" v="226669020" />
 	</way>
 	<way changeset="86814011" id="226669021" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354368637" />
@@ -3461,6 +3398,7 @@
 		<nd ref="2354368637" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="东13楼" />
+		<tag k="id" v="226669021" />
 	</way>
 	<way changeset="86814011" id="226669057" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354369793" />
@@ -3470,6 +3408,7 @@
 		<nd ref="2354369793" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="东2楼" />
+		<tag k="id" v="226669057" />
 	</way>
 	<way changeset="86814011" id="226669058" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354369754" />
@@ -3479,6 +3418,7 @@
 		<nd ref="2354369754" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="东5楼" />
+		<tag k="id" v="226669058" />
 	</way>
 	<way changeset="86814011" id="226669059" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354369779" />
@@ -3488,6 +3428,7 @@
 		<nd ref="2354369779" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="东8楼" />
+		<tag k="id" v="226669059" />
 	</way>
 	<way changeset="86814011" id="226669060" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354369785" />
@@ -3497,6 +3438,7 @@
 		<nd ref="2354369785" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="东3楼" />
+		<tag k="id" v="226669060" />
 	</way>
 	<way changeset="86814011" id="226669061" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354369762" />
@@ -3506,6 +3448,7 @@
 		<nd ref="2354369762" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="东9楼" />
+		<tag k="id" v="226669061" />
 	</way>
 	<way changeset="86814011" id="226669062" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354369802" />
@@ -3515,6 +3458,7 @@
 		<nd ref="2354369802" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="东1楼" />
+		<tag k="id" v="226669062" />
 	</way>
 	<way changeset="86814011" id="226669063" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354369771" />
@@ -3524,6 +3468,7 @@
 		<nd ref="2354369771" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="东4楼" />
+		<tag k="id" v="226669063" />
 	</way>
 	<way changeset="86814011" id="226669471" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354372299" />
@@ -3533,6 +3478,7 @@
 		<nd ref="2354372299" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="高1楼" />
+		<tag k="id" v="226669471" />
 	</way>
 	<way changeset="86814011" id="226669472" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354372295" />
@@ -3542,11 +3488,13 @@
 		<nd ref="2354372295" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="高2楼" />
+		<tag k="id" v="226669472" />
 	</way>
 	<way changeset="86814011" id="226669473" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354372303" />
 		<nd ref="2354372304" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="226669473" />
 	</way>
 	<way changeset="86814011" id="226669474" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354372310" />
@@ -3554,11 +3502,13 @@
 		<nd ref="2354372312" />
 		<nd ref="2354372313" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="226669474" />
 	</way>
 	<way changeset="86814011" id="226669477" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="371156463" />
 		<nd ref="2354372311" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="226669477" />
 	</way>
 	<way changeset="86814011" id="226670876" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354390145" />
@@ -3570,6 +3520,7 @@
 		<nd ref="2354390145" />
 		<tag k="landuse" v="residential" />
 		<tag k="name" v="新林院" />
+		<tag k="id" v="226670876" />
 	</way>
 	<way changeset="86814011" id="226670893" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354390629" />
@@ -3580,6 +3531,7 @@
 		<tag k="amenity" v="police" />
 		<tag k="building" v="yes" />
 		<tag k="name" v="保卫处派出所" />
+		<tag k="id" v="226670893" />
 	</way>
 	<way changeset="86814011" id="226671070" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354393896" />
@@ -3592,6 +3544,7 @@
 		<tag k="landuse" v="residential" />
 		<tag k="name" v="专家公寓" />
 		<tag k="name:en" v="Chern-Simons Hall" />
+		<tag k="id" v="226671070" />
 	</way>
 	<way changeset="86814011" id="226671071" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354393900" />
@@ -3605,23 +3558,27 @@
 		<nd ref="2354393900" />
 		<tag k="landuse" v="residential" />
 		<tag k="name" v="胜因院" />
+		<tag k="id" v="226671071" />
 	</way>
 	<way changeset="86814011" id="226671264" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354395617" />
 		<nd ref="2354395905" />
 		<nd ref="2354395618" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="226671264" />
 	</way>
 	<way changeset="86814011" id="226671305" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354395904" />
 		<nd ref="2354395905" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="226671305" />
 	</way>
 	<way changeset="86814011" id="226671309" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354395943" />
 		<nd ref="2354395944" />
 		<nd ref="2354395945" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="226671309" />
 	</way>
 	<way changeset="86814011" id="226671400" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354397241" />
@@ -3638,6 +3595,7 @@
 		<tag k="building" v="yes" />
 		<tag k="name" v="蒙民伟音乐厅" />
 		<tag k="name:en" v="Mong Man-wai Concert Hall" />
+		<tag k="id" v="226671400" />
 	</way>
 	<way changeset="86814011" id="226671474" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354397918" />
@@ -3652,11 +3610,13 @@
 		<nd ref="2354397927" />
 		<nd ref="2354397918" />
 		<tag k="leisure" v="stadium" />
+		<tag k="id" v="226671474" />
 	</way>
 	<way changeset="86814011" id="226681865" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354480415" />
 		<nd ref="2354480417" />
 		<tag k="highway" v="residential" />
+		<tag k="id" v="226681865" />
 	</way>
 	<way changeset="86814011" id="226936208" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2356767448" />
@@ -3665,6 +3625,7 @@
 		<nd ref="2356767451" />
 		<nd ref="2356767448" />
 		<tag k="landuse" v="grass" />
+		<tag k="id" v="226936208" />
 	</way>
 	<way changeset="86814011" id="226936210" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2356767484" />
@@ -3673,11 +3634,13 @@
 		<nd ref="2356767487" />
 		<nd ref="2356767484" />
 		<tag k="landuse" v="grass" />
+		<tag k="id" v="226936210" />
 	</way>
 	<way changeset="86814011" id="226936263" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2356767826" />
 		<nd ref="2356767827" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="226936263" />
 	</way>
 	<way changeset="86814011" id="409380281" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354058500" />
@@ -3691,6 +3654,7 @@
 		<nd ref="593586486" />
 		<nd ref="593586479" />
 		<tag k="highway" v="residential" />
+		<tag k="id" v="409380281" />
 	</way>
 	<way changeset="86814011" id="409381514" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="4113050889" />
@@ -3701,6 +3665,7 @@
 		<nd ref="4113050889" />
 		<tag k="building" v="residential" />
 		<tag k="name" v="1公寓" />
+		<tag k="id" v="409381514" />
 	</way>
 	<way changeset="86814011" id="451338304" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="4481648165" />
@@ -3716,6 +3681,7 @@
 		<nd ref="7003969305" />
 		<nd ref="7003969302" />
 		<nd ref="4481648165" />
+		<tag k="id" v="451338304" />
 	</way>
 	<way changeset="86814011" id="451338305" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="4481648177" />
@@ -3724,6 +3690,7 @@
 		<nd ref="4481648175" />
 		<nd ref="4481648177" />
 		<tag k="building" v="yes" />
+		<tag k="id" v="451338305" />
 	</way>
 	<way changeset="86814011" id="479225052" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="937454340" />
@@ -3734,6 +3701,7 @@
 		<tag k="covered" v="yes" />
 		<tag k="highway" v="tertiary" />
 		<tag k="name" v="清华路" />
+		<tag k="id" v="479225052" />
 	</way>
 	<way changeset="86814011" id="479392036" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="937460782" />
@@ -3742,11 +3710,13 @@
 		<tag k="access" v="permissive" />
 		<tag k="covered" v="yes" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="479392036" />
 	</way>
 	<way changeset="86814011" id="743595586" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="992548498" />
 		<nd ref="992548487" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="743595586" />
 	</way>
 	<way changeset="86814011" id="743595587" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="937461945" />
@@ -3756,6 +3726,7 @@
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="tertiary" />
 		<tag k="name" v="日新路" />
+		<tag k="id" v="743595587" />
 	</way>
 	<way changeset="86814011" id="743595588" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="937461946" />
@@ -3763,6 +3734,7 @@
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="tertiary" />
 		<tag k="name" v="日新路" />
+		<tag k="id" v="743595588" />
 	</way>
 	<way changeset="86814011" id="743595589" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="937461946" />
@@ -3773,6 +3745,7 @@
 		<tag k="bicycle" v="designated" />
 		<tag k="foot" v="designated" />
 		<tag k="highway" v="cycleway" />
+		<tag k="id" v="743595589" />
 	</way>
 	<way changeset="86814011" id="743595590" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="937461944" />
@@ -3783,6 +3756,7 @@
 		<tag k="bicycle" v="designated" />
 		<tag k="foot" v="designated" />
 		<tag k="highway" v="cycleway" />
+		<tag k="id" v="743595590" />
 	</way>
 	<way changeset="86814011" id="743595592" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="937453401" />
@@ -3792,6 +3766,7 @@
 		<nd ref="937453401" />
 		<tag k="building" v="yes" />
 		<tag k="layer" v="1" />
+		<tag k="id" v="743595592" />
 	</way>
 	<way changeset="86814011" id="743595593" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="937453415" />
@@ -3812,6 +3787,7 @@
 		<tag k="building" v="yes" />
 		<tag k="layer" v="1" />
 		<tag k="name" v="西配楼" />
+		<tag k="id" v="743595593" />
 	</way>
 	<way changeset="86814011" id="743595594" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="6959725323" />
@@ -3821,6 +3797,7 @@
 		<nd ref="6959725323" />
 		<tag k="building" v="university" />
 		<tag k="name" v="建筑馆新馆" />
+		<tag k="id" v="743595594" />
 	</way>
 	<way changeset="86814011" id="743595595" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="6959725348" />
@@ -3834,6 +3811,7 @@
 		<tag k="name" v="学堂路" />
 		<tag k="name:en" v="Xuetang Road" />
 		<tag k="surface" v="concrete" />
+		<tag k="id" v="743595595" />
 	</way>
 	<way changeset="86814011" id="743595612" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="380423857" />
@@ -3842,6 +3820,7 @@
 		<tag k="highway" v="tertiary" />
 		<tag k="name" v="清华路" />
 		<tag k="name:en" v="Tsinghua Road" />
+		<tag k="id" v="743595612" />
 	</way>
 	<way changeset="86814011" id="743595613" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="371156933" />
@@ -3853,6 +3832,7 @@
 		<tag k="highway" v="tertiary" />
 		<tag k="name" v="学堂路" />
 		<tag k="name:en" v="Xuetang Road" />
+		<tag k="id" v="743595613" />
 	</way>
 	<way changeset="86814011" id="748952233" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="7003969306" />
@@ -3862,6 +3842,7 @@
 		<nd ref="7003969310" />
 		<nd ref="7003969311" />
 		<nd ref="7003969306" />
+		<tag k="id" v="748952233" />
 	</way>
 	<way changeset="86814011" id="748952234" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="7003969309" />
@@ -3872,6 +3853,7 @@
 		<nd ref="7003969308" />
 		<nd ref="7003969309" />
 		<tag k="building" v="yes" />
+		<tag k="id" v="748952234" />
 	</way>
 	<way changeset="86814011" id="757477556" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354347156" />
@@ -3879,16 +3861,19 @@
 		<nd ref="7631857799" />
 		<tag k="highway" v="cycleway" />
 		<tag k="oneway" v="no" />
+		<tag k="id" v="757477556" />
 	</way>
 	<way changeset="86814011" id="757478030" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="992562845" />
 		<nd ref="7074061919" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="757478030" />
 	</way>
 	<way changeset="86814011" id="757478031" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="7074061918" />
 		<nd ref="7074061920" />
 		<tag k="highway" v="cycleway" />
+		<tag k="id" v="757478031" />
 	</way>
 	<way changeset="86814011" id="757866056" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="7077844150" />
@@ -3897,17 +3882,20 @@
 		<nd ref="7077844150" />
 		<tag k="building" v="yes" />
 		<tag k="name" v="同方大厦" />
+		<tag k="id" v="757866056" />
 	</way>
 	<way changeset="86814011" id="817157926" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354034765" />
 		<nd ref="992548487" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="817157926" />
 	</way>
 	<way changeset="86814011" id="817157927" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="943362689" />
 		<nd ref="7631857834" />
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="817157927" />
 	</way>
 	<way changeset="86814011" id="817157928" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="7631857838" />
@@ -3918,6 +3906,7 @@
 		<tag k="building" v="yes" />
 		<tag k="name" v="法律图书馆" />
 		<tag k="name:en" v="Law Library" />
+		<tag k="id" v="817157928" />
 	</way>
 	<way changeset="86814011" id="817157929" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="7631857846" />
@@ -3931,12 +3920,14 @@
 		<nd ref="7631857846" />
 		<tag k="building" v="yes" />
 		<tag k="name" v="西阶梯教室" />
+		<tag k="id" v="817157929" />
 	</way>
 	<way changeset="86814011" id="853328355" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="937461939" />
 		<nd ref="6959725325" />
 		<nd ref="937461942" />
 		<tag k="highway" v="footway" />
+		<tag k="id" v="853328355" />
 	</way>
 	<way changeset="86814011" id="853328356" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="937461942" />
@@ -3944,33 +3935,39 @@
 		<nd ref="976494173" />
 		<nd ref="7959888853" />
 		<tag k="highway" v="footway" />
+		<tag k="id" v="853328356" />
 	</way>
 	<way changeset="86814011" id="853328367" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="7959888872" />
 		<nd ref="7959888873" />
 		<tag k="highway" v="residential" />
+		<tag k="id" v="853328367" />
 	</way>
 	<way changeset="86814011" id="853328369" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="7959888876" />
 		<nd ref="7959888877" />
 		<tag k="highway" v="residential" />
+		<tag k="id" v="853328369" />
 	</way>
 	<way changeset="86814011" id="853328370" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="7959888878" />
 		<nd ref="245133700" />
 		<tag k="highway" v="residential" />
+		<tag k="id" v="853328370" />
 	</way>
 	<way changeset="86814011" id="853328371" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="992548499" />
 		<nd ref="992548494" />
 		<tag k="access" v="permissive" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="853328371" />
 	</way>
 	<way changeset="86814011" id="858252105" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="2354034768" />
 		<nd ref="8000890892" />
 		<nd ref="8000890893" />
 		<tag k="highway" v="service" />
+		<tag k="id" v="858252105" />
 	</way>
 	<way changeset="86814011" id="861081177" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="8025538117" />
@@ -3981,6 +3978,7 @@
 		<tag k="leisure" v="pitch" />
 		<tag k="name" v="门球场" />
 		<tag k="sport" v="gateball" />
+		<tag k="id" v="861081177" />
 	</way>
 	<way changeset="86814011" id="861081178" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="8025538121" />
@@ -3990,6 +3988,7 @@
 		<nd ref="8025538121" />
 		<tag k="building" v="office" />
 		<tag k="name" v="清华园胶印厂文创园" />
+		<tag k="id" v="861081178" />
 	</way>
 	<way changeset="86814011" id="887441694" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="8250970714" />
@@ -4003,6 +4002,7 @@
 		<nd ref="984055648" />
 		<tag k="highway" v="service" />
 		<tag k="source" v="maxar" />
+		<tag k="id" v="887441694" />
 	</way>
 	<way changeset="86814011" id="915703016" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="8505826687" />
@@ -4011,6 +4011,7 @@
 		<nd ref="8505826690" />
 		<nd ref="8505826687" />
 		<tag k="building" v="yes" />
+		<tag k="id" v="915703016" />
 	</way>
 	<way changeset="86814011" id="916062408" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="8508697329" />
@@ -4020,6 +4021,7 @@
 		<nd ref="8508697329" />
 		<tag k="landuse" v="residential" />
 		<tag k="name" v="胜因院" />
+		<tag k="id" v="916062408" />
 	</way>
 	<way changeset="86814011" id="916062409" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="8508697333" />
@@ -4032,6 +4034,7 @@
 		<nd ref="8508697333" />
 		<tag k="landuse" v="residential" />
 		<tag k="name" v="新林院" />
+		<tag k="id" v="916062409" />
 	</way>
 	<way changeset="86814011" id="916062410" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
 		<nd ref="8639885944" />
@@ -4335,430 +4338,6 @@
 		<nd ref="8639886094" />
 		<nd ref="8639886095" />
 		<nd ref="8639886092" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062448" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886096" />
-		<nd ref="8639886097" />
-		<nd ref="8639886098" />
-		<nd ref="8639886099" />
-		<nd ref="8639886096" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062449" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886100" />
-		<nd ref="8639886101" />
-		<nd ref="8639886102" />
-		<nd ref="8639886103" />
-		<nd ref="8639886100" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062450" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886104" />
-		<nd ref="8639886105" />
-		<nd ref="8639886106" />
-		<nd ref="8639886107" />
-		<nd ref="8639886104" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062451" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886108" />
-		<nd ref="8639886109" />
-		<nd ref="8639886110" />
-		<nd ref="8639886111" />
-		<nd ref="8639886108" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062452" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886112" />
-		<nd ref="8639886113" />
-		<nd ref="8639886114" />
-		<nd ref="8639886115" />
-		<nd ref="8639886112" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062453" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886116" />
-		<nd ref="8639886117" />
-		<nd ref="8639886118" />
-		<nd ref="8639886119" />
-		<nd ref="8639886116" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062454" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886120" />
-		<nd ref="8639886121" />
-		<nd ref="8639886122" />
-		<nd ref="8639886123" />
-		<nd ref="8639886120" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062455" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886124" />
-		<nd ref="8639886125" />
-		<nd ref="8639886126" />
-		<nd ref="8639886127" />
-		<nd ref="8639886124" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062456" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886128" />
-		<nd ref="8639886129" />
-		<nd ref="8639886130" />
-		<nd ref="8639886131" />
-		<nd ref="8639886128" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062457" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886132" />
-		<nd ref="8639886133" />
-		<nd ref="8639886134" />
-		<nd ref="8639886135" />
-		<nd ref="8639886132" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062458" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886136" />
-		<nd ref="8639886137" />
-		<nd ref="8639886138" />
-		<nd ref="8639886139" />
-		<nd ref="8639886136" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062459" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886140" />
-		<nd ref="8639886141" />
-		<nd ref="8639886142" />
-		<nd ref="8639886143" />
-		<nd ref="8639886140" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062460" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886144" />
-		<nd ref="8639886145" />
-		<nd ref="8639886146" />
-		<nd ref="8639886147" />
-		<nd ref="8639886144" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062461" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886148" />
-		<nd ref="8639886149" />
-		<nd ref="8639886150" />
-		<nd ref="8639886151" />
-		<nd ref="8639886148" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062462" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886152" />
-		<nd ref="8639886153" />
-		<nd ref="8639886154" />
-		<nd ref="8639886155" />
-		<nd ref="8639886152" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062463" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886156" />
-		<nd ref="8639886157" />
-		<nd ref="8639886158" />
-		<nd ref="8639886159" />
-		<nd ref="8639886156" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062464" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886160" />
-		<nd ref="8639886161" />
-		<nd ref="8639886162" />
-		<nd ref="8639886163" />
-		<nd ref="8639886160" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062465" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886164" />
-		<nd ref="8639886165" />
-		<nd ref="8639886166" />
-		<nd ref="8639886167" />
-		<nd ref="8639886164" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062466" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886168" />
-		<nd ref="8639886169" />
-		<nd ref="8639886170" />
-		<nd ref="8639886171" />
-		<nd ref="8639886168" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062467" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886172" />
-		<nd ref="8639886173" />
-		<nd ref="8639886174" />
-		<nd ref="8639886175" />
-		<nd ref="8639886172" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062468" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886176" />
-		<nd ref="8639886177" />
-		<nd ref="8639886178" />
-		<nd ref="8639886179" />
-		<nd ref="8639886176" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062469" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886180" />
-		<nd ref="8639886181" />
-		<nd ref="8639886182" />
-		<nd ref="8639886183" />
-		<nd ref="8639886180" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062470" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886184" />
-		<nd ref="8639886185" />
-		<nd ref="8639886186" />
-		<nd ref="8639886187" />
-		<nd ref="8639886184" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062471" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886188" />
-		<nd ref="8639886189" />
-		<nd ref="8639886190" />
-		<nd ref="8639886191" />
-		<nd ref="8639886188" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062472" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886192" />
-		<nd ref="8639886193" />
-		<nd ref="8639886194" />
-		<nd ref="8639886195" />
-		<nd ref="8639886192" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062473" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886196" />
-		<nd ref="8639886197" />
-		<nd ref="8639886198" />
-		<nd ref="8639886199" />
-		<nd ref="8639886196" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062474" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886200" />
-		<nd ref="8639886201" />
-		<nd ref="8639886202" />
-		<nd ref="8639886203" />
-		<nd ref="8639886200" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062475" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886204" />
-		<nd ref="8639886205" />
-		<nd ref="8639886206" />
-		<nd ref="8639886207" />
-		<nd ref="8639886204" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062476" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886208" />
-		<nd ref="8639886209" />
-		<nd ref="8639886210" />
-		<nd ref="8639886211" />
-		<nd ref="8639886208" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062477" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886212" />
-		<nd ref="8639886213" />
-		<nd ref="8639886214" />
-		<nd ref="8639886215" />
-		<nd ref="8639886212" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062478" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886216" />
-		<nd ref="8639886217" />
-		<nd ref="8639886218" />
-		<nd ref="8639886219" />
-		<nd ref="8639886216" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062479" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886220" />
-		<nd ref="8639886221" />
-		<nd ref="8639886222" />
-		<nd ref="8639886223" />
-		<nd ref="8639886220" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062480" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886224" />
-		<nd ref="8639886225" />
-		<nd ref="8639886226" />
-		<nd ref="8639886227" />
-		<nd ref="8639886224" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062481" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886228" />
-		<nd ref="8639886229" />
-		<nd ref="8639886230" />
-		<nd ref="8639886231" />
-		<nd ref="8639886228" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062482" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886232" />
-		<nd ref="8639886233" />
-		<nd ref="8639886234" />
-		<nd ref="8639886235" />
-		<nd ref="8639886232" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062483" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886236" />
-		<nd ref="8639886237" />
-		<nd ref="8639886238" />
-		<nd ref="8639886239" />
-		<nd ref="8639886236" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062484" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886240" />
-		<nd ref="8639886241" />
-		<nd ref="8639886242" />
-		<nd ref="8639886243" />
-		<nd ref="8639886240" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062485" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886244" />
-		<nd ref="8639886245" />
-		<nd ref="8639886246" />
-		<nd ref="8639886247" />
-		<nd ref="8639886244" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062486" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886248" />
-		<nd ref="8639886249" />
-		<nd ref="8639886250" />
-		<nd ref="8639886251" />
-		<nd ref="8639886248" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062487" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886252" />
-		<nd ref="8639886253" />
-		<nd ref="8639886254" />
-		<nd ref="8639886255" />
-		<nd ref="8639886252" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062488" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886256" />
-		<nd ref="8639886257" />
-		<nd ref="8639886258" />
-		<nd ref="8639886259" />
-		<nd ref="8639886256" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062489" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886260" />
-		<nd ref="8639886261" />
-		<nd ref="8639886262" />
-		<nd ref="8639886263" />
-		<nd ref="8639886260" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062490" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886264" />
-		<nd ref="8639886265" />
-		<nd ref="8639886266" />
-		<nd ref="8639886267" />
-		<nd ref="8639886264" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062491" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886268" />
-		<nd ref="8639886269" />
-		<nd ref="8639886270" />
-		<nd ref="8639886271" />
-		<nd ref="8639886268" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062492" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886272" />
-		<nd ref="8639886273" />
-		<nd ref="8639886274" />
-		<nd ref="8639886275" />
-		<nd ref="8639886272" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062493" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886276" />
-		<nd ref="8639886277" />
-		<nd ref="8639886278" />
-		<nd ref="8639886279" />
-		<nd ref="8639886276" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062494" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886280" />
-		<nd ref="8639886281" />
-		<nd ref="8639886282" />
-		<nd ref="8639886283" />
-		<nd ref="8639886280" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062495" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886284" />
-		<nd ref="8639886285" />
-		<nd ref="8639886286" />
-		<nd ref="8639886287" />
-		<nd ref="8639886284" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062496" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886288" />
-		<nd ref="8639886289" />
-		<nd ref="8639886290" />
-		<nd ref="8639886291" />
-		<nd ref="8639886288" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062497" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886292" />
-		<nd ref="8639886293" />
-		<nd ref="8639886294" />
-		<nd ref="8639886295" />
-		<nd ref="8639886292" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062498" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886296" />
-		<nd ref="8639886297" />
-		<nd ref="8639886298" />
-		<nd ref="8639886299" />
-		<nd ref="8639886296" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062499" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886300" />
-		<nd ref="8639886301" />
-		<nd ref="8639886302" />
-		<nd ref="8639886303" />
-		<nd ref="8639886300" />
-		<tag k="sensors" v="camera" />
-	</way>
-	<way changeset="86814011" id="916062500" timestamp="2020-06-18T09:19:19Z" uid="5077787" user="luzhengye" version="7" visible="true">
-		<nd ref="8639886304" />
-		<nd ref="8639886305" />
-		<nd ref="8639886306" />
-		<nd ref="8639886307" />
-		<nd ref="8639886304" />
 		<tag k="sensors" v="camera" />
 	</way>
 </osm>

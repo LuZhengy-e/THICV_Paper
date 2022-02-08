@@ -1,6 +1,11 @@
+import os
 import cv2
 import math
 import numpy as np
+
+import sys
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 
 MAX_ITERATION = 1e6
 
@@ -140,6 +145,10 @@ class Geometry:
     def enu2lla(x, y, z, lat0, lon0):
         X, Y, Z = Geometry.enu2ecef(x, y, z, lat0, lon0)
         return Geometry.ecef2lla(X, Y, Z)
+
+    @staticmethod
+    def plot_1Dto2D():
+        pass
 
 
 if __name__ == '__main__':

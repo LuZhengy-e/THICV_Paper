@@ -1,3 +1,4 @@
+import os
 import cv2
 import json
 import numpy as np
@@ -5,6 +6,7 @@ from copy import deepcopy
 from configparser import ConfigParser
 from xml.etree.ElementTree import ElementTree as ET
 from xml.etree.ElementTree import Element, SubElement, tostring
+from matplotlib import pyplot as plt
 
 from utils.utils import Geometry
 from utils.sensors import Camera1D
@@ -89,7 +91,7 @@ class Pos(Point):
         else:
             raise ValueError("input is wrong")
 
-        return t <= 1
+        return t < 1
 
     @classmethod
     def copy_from_point(cls, point, if_get_tag=False):
@@ -307,19 +309,60 @@ class LoaclMap:
         tree = ET(root)
         tree.write(output_dir, encoding="UTF-8", xml_declaration=True)
 
+    def dump_to_png(self, output_dir, valid_tag=None, **kwargs):
+        """
+        :param valid_tag:
+        :param kwargs
+        {
+            line_type_i: {
+                color: color,
+                width: line_width
+            }
+        }
+        """
+
+        if valid_tag is None:
+            valid_tag = []
+
+        def plot(line, tag, **kwargs):
+            if tag is None:
+                return False
+
+            if kwargs.get(tag) is None:
+                color = default_color
+                width = default_width
+
+            else:
+                color = kwargs[tag]["color"] if kwargs[tag].get("color") is not None else default_color
+                width = kwargs[tag]["width"] if kwargs[tag].get("width") is not None else default_width
+
+            x = [pt.x for pt in line.get_pts()]
+            y = [pt.y for pt in line.get_pts()]
+            plt.plot(x, y, c=color, linewidth=width)
+
+            return True
+
+        ax = plt.gca()
+        ax.set_aspect(1)
+        default_color = "red"
+        default_width = 1
+        for line_id, line in self._Mapdict["Line"].items():
+            if not plot(line, line.get_tag("sensors"), **kwargs):
+                highway = line.get_tag("highway")
+                if kwargs.get(highway) is None:
+                    continue
+
+                plot(line, line.get_tag("highway"), **kwargs)
+
+        plt.savefig(output_dir)
+        plt.show()
+
 
 if __name__ == '__main__':
     rad = np.pi / 180
-    localmap = LoaclMap("/home/luzhengye/dataset/1130-DAIR-V2X/Tsinghua.osm")
-    sensor = Camera1D.create(15 * rad, 23 * rad, np.pi / 2, 3, 2329.297332, 1)
+    localmap = LoaclMap("/home/luzhengye/dataset/1130-DAIR-V2X/Wangjing.osm")
+    sensor = Camera1D.create(15 * rad, 23 * rad, np.pi / 2, 3, 2329.297332, 2329.297332)
     for line_id in localmap.get_lines():
-        line = localmap.get_line(line_id)
-        if line.get_tag("highway") is None:
-            continue
-        begin, end = line.begin, line.end
-        sensor.deployment(localmap,
-                          coord=np.array([begin.x, begin.y]),
-                          theta=0 * np.pi / 8,
-                          ele=begin.z)
+        localmap.update_line_tag(line_id, {"id": line_id})
 
     localmap.dump_to_osm("test.osm")
