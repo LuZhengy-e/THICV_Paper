@@ -73,13 +73,15 @@ def deployment_one_road(map: LoaclMap, road_id, gap_pole, cameras_info, cost_pol
             sensor.deployment(map,
                               np.array([pts[last_pos].x, pts[last_pos].y]),
                               thetas[last_pos],
-                              pts[last_pos].z)
+                              pts[last_pos].z,
+                              road_id=road_id)
 
         else:
             sensor.deployment(map,
                               np.array([pts[cur_pos].x, pts[cur_pos].y]),
                               np.pi + thetas[cur_pos],
-                              pts[cur_pos].z)
+                              pts[cur_pos].z,
+                              road_id=road_id)
 
         cur_pos = last_pos
         cur_idx = last_idx

@@ -55,15 +55,16 @@ def main():
                                  gap_pole=delta_pole,
                                  cameras_info=[0, 90, 4, 40],
                                  cost_pole=5,
-                                 cost_cameras=7)
+                                 cost_cameras=10)
 
         logger.info(f"{line_id} has deployed")
 
-    local_map.dump_to_osm("result/wangjing.osm")
-    local_map.dump_to_png("result/wangjing.pdf",
-                          camera={"color": "red", "width": 0.5},
-                          secondary={"color": "dimgray", "width": 0.75},
-                          tertiary={"color": "grey", "width": 1})
+    # output
+    osm_path = cfg.get("FILE", "osm_path")
+    fig_path = cfg.get("FILE", "fig_path")
+    picture_info = eval(cfg.get("FILE", "picture_info"))
+    local_map.dump_to_osm(osm_path)
+    local_map.dump_to_png(fig_path, **picture_info)
 
 
 if __name__ == '__main__':

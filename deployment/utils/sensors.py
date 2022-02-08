@@ -16,7 +16,7 @@ class Camera1D:
         self.min_h = min_h
         self.max_h = max_h
 
-    def deployment(self, local_map, coord: np.array, theta, ele):
+    def deployment(self, local_map, coord: np.array, theta, ele, **kwargs):
         R = np.array(
             [
                 [np.cos(theta), -np.sin(theta)],
@@ -45,6 +45,8 @@ class Camera1D:
 
         pt_list.append(pt_list[0])
         line_id = local_map.create_line(pt_list, tags={"sensors": "camera"})
+        if kwargs is not None:
+            local_map.update_line_tag(line_id, tags=kwargs)
 
     @classmethod
     def create(cls, HFOV, VFOV, phi, H, fx, fy, delta_u=1, delta_v=1, cx=1., cy=1.):
