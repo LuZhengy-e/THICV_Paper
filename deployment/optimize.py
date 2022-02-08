@@ -3,6 +3,8 @@ import numpy as np
 import math
 import sys
 from queue import Queue
+import loguru
+logger = loguru.logger
 
 
 class ILP:
@@ -112,27 +114,6 @@ class DynamicProgramming:
             raise IndexError("Repeat register")
 
         self.format[name] = fun
-        print(f"{name} has registered ...")
+        logger.info(f"{name} has registered ...")
 
         return fun
-
-
-DP_OBJECT = DynamicProgramming()
-
-
-def build_from_dp(name, **kwargs):
-    return DP_OBJECT.solve(name, **kwargs)
-
-
-if __name__ == '__main__':
-    c = np.array([40, 90])
-    A = np.array([[-9, -7], [-7, -20]])
-    b = np.array([-56, -70])
-    Aeq = None
-    beq = None
-    bounds = [(0, 4), (0, None)]
-
-    solver = ILP(-c, A, b, Aeq, beq, bounds)
-    solver.solve()
-
-    print("Result:", solver.opt_val, solver.opt_x)

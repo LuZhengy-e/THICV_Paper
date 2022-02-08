@@ -1,15 +1,11 @@
-import os
-import cv2
-import json
 import numpy as np
 from copy import deepcopy
-from configparser import ConfigParser
 from xml.etree.ElementTree import ElementTree as ET
-from xml.etree.ElementTree import Element, SubElement, tostring
+from xml.etree.ElementTree import Element, SubElement
 from matplotlib import pyplot as plt
 
-from utils.utils import Geometry
-from utils.sensors import Camera1D
+from .utils import Geometry
+from .sensors import Camera1D
 
 
 class Point:

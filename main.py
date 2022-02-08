@@ -1,18 +1,14 @@
-import cv2
+from deployment import build_from_dp
 import loguru
-logger = loguru.logger
+
 import numpy as np
-from tqdm import tqdm
 from configparser import ConfigParser
 from argparse import ArgumentParser
 from tqdm import tqdm
-from utils.maps import Point
-from utils.sensors import Camera1D
-from utils.datasets import AirDataset
-from utils.maps import LoaclMap, Pos
+from deployment.utils.maps import LoaclMap
 from matplotlib import pyplot as plt
-from deployment.Xueyang import DP_OBJECT
 
+logger = loguru.logger
 rad = np.pi / 180
 
 
@@ -54,12 +50,12 @@ def main():
         if line.get_tag("highway") != "secondary" and line.get_tag("highway") != "tertiary":
             continue
 
-        min_cost = DP_OBJECT.solve("deployment_one_road",
-                                   map=local_map, road_id=line_id,
-                                   gap_pole=delta_pole,
-                                   cameras_info=[0, 90, 4, 40],
-                                   cost_pole=5,
-                                   cost_cameras=7)
+        min_cost = build_from_dp("deployment_one_road",
+                                 map=local_map, road_id=line_id,
+                                 gap_pole=delta_pole,
+                                 cameras_info=[0, 90, 4, 40],
+                                 cost_pole=5,
+                                 cost_cameras=7)
 
         logger.info(f"{line_id} has deployed")
 

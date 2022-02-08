@@ -1,16 +1,10 @@
 import numpy as np
-from shapely.geometry import Polygon
 from collections import defaultdict
+from ..registry import DP_OBJECT
 
-import sys
-import os
-
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-
-from deployment.optimize import DP_OBJECT
-from utils.maps import LoaclMap
-from utils.maps import Line, Point, Pos
-from utils.sensors import Camera1D
+from ..utils.maps import LoaclMap
+from ..utils.maps import Line, Point, Pos
+from ..utils.sensors import Camera1D
 
 MAX_VALUE = 1e6
 
