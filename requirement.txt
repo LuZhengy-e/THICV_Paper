@@ -1,0 +1,10 @@
+opencv-python==3.2.0.6
+configparser
+loguru
+tqdm
+matplotlib
+shapely
+numpy
+scipy
+open3d==0.9.0.0
+geatpy

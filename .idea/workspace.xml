@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4eb38207-2f85-488c-9668-be2b3436ec62" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="25P2UPMG4gFP94tQVfiecnFLiKE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/result" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4eb38207-2f85-488c-9668-be2b3436ec62" name="Default Changelist" comment="" />
+      <created>1645414418293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645414418293</updated>
+      <workItem from="1645414420638" duration="798000" />
+      <workItem from="1645595185335" duration="134000" />
+      <workItem from="1646059588980" duration="821000" />
+      <workItem from="1646201434590" duration="8939000" />
+      <workItem from="1646231627167" duration="2559000" />
+      <workItem from="1646278048075" duration="10889000" />
+      <workItem from="1646319808950" duration="1328000" />
+      <workItem from="1646388415303" duration="101000" />
+      <workItem from="1646632415109" duration="17124000" />
+      <workItem from="1646666810365" duration="987000" />
+      <workItem from="1646737191797" duration="13213000" />
+      <workItem from="1646823472490" duration="850000" />
+      <workItem from="1646837617814" duration="1330000" />
+      <workItem from="1648023688601" duration="387000" />
+      <workItem from="1648483919214" duration="4716000" />
+      <workItem from="1648528071893" duration="100000" />
+      <workItem from="1648534117058" duration="8860000" />
+      <workItem from="1648613866745" duration="2244000" />
+      <workItem from="1648653226005" duration="10174000" />
+      <workItem from="1648645352306" duration="943000" />
+      <workItem from="1648646412239" duration="9815000" />
+      <workItem from="1648694275344" duration="30622000" />
+      <workItem from="1648732084599" duration="6086000" />
+      <workItem from="1648776114601" duration="2829000" />
+      <workItem from="1648794024144" duration="544000" />
+      <workItem from="1648845856710" duration="593000" />
+      <workItem from="1648882486305" duration="121000" />
+      <workItem from="1649313212170" duration="9850000" />
+      <workItem from="1649333184266" duration="173000" />
+      <workItem from="1649334106292" duration="4000" />
+      <workItem from="1649334145921" duration="10000" />
+      <workItem from="1649387815555" duration="90000" />
+      <workItem from="1649387939681" duration="1879000" />
+      <workItem from="1649468111439" duration="592000" />
+      <workItem from="1649658858762" duration="15685000" />
+      <workItem from="1649828046125" duration="5210000" />
+      <workItem from="1649835264977" duration="3854000" />
+      <workItem from="1650808757862" duration="74000" />
+      <workItem from="1653468935242" duration="119000" />
+      <workItem from="1653483480532" duration="123000" />
+      <workItem from="1654264489696" duration="469000" />
+    </task>
+    <servers />
+  </component>
+</project>
