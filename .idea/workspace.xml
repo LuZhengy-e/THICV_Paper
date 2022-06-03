@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4eb38207-2f85-488c-9668-be2b3436ec62" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/THICV_Paper.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/config.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/e2e_faster_rcnn_R_101_FPN_1x.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/e2e_faster_rcnn_R_50_C4_1x.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/e2e_faster_rcnn_R_50_FPN_1x.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployment/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployment/build.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployment/methods/LuZhengye.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployment/methods/Xueyang.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployment/methods/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployment/optimize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployment/registry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployment/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployment/utils/datasets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployment/utils/maps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployment/utils/sensors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployment/utils/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/last_checkpoint" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maskrcnn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirement.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/LuZhengye.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +96,7 @@
       <workItem from="1650808757862" duration="74000" />
       <workItem from="1653468935242" duration="119000" />
       <workItem from="1653483480532" duration="123000" />
-      <workItem from="1654264489696" duration="777000" />
+      <workItem from="1654264489696" duration="1645000" />
     </task>
     <servers />
   </component>
