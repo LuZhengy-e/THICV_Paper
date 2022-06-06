@@ -6,7 +6,7 @@ from configparser import ConfigParser
 from argparse import ArgumentParser
 from deployment.utils.maps import LoaclMap
 
-from config.LuZhengye import params
+from config import config
 
 logger = loguru.logger
 rad = np.pi / 180
@@ -15,6 +15,7 @@ rad = np.pi / 180
 def argparse():
     parser = ArgumentParser()
     parser.add_argument("--config-path", default="config/config.cfg")
+    parser.add_argument("--method", default="LuZhengye")
 
     args = parser.parse_args()
 
@@ -31,6 +32,7 @@ def main():
     local_map = LoaclMap(map_path)
 
     # optimize deployment each road
+    params = config.get(args.method)
     params["map"] = local_map
     method = params.pop("method")
     build_from_dp(method, **params)
@@ -44,17 +46,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-    # for line_id in tqdm(local_map.get_lines()):
-    #     local_map.update_line_tag(line_id, {"id": line_id})
-    #     line = local_map.get_line(line_id)
-    #     if line.get_tag("highway") != "secondary" and line.get_tag("highway") != "tertiary":
-    #         continue
-    #
-    #     min_cost = build_from_dp("deployment_one_road",
-    #                              map=local_map, road_id=line_id,
-    #                              gap_pole=delta_pole,
-    #                              cameras_info=[0, 86, 3, 30],
-    #                              cost_pole=5,
-    #                              cost_cameras=10)
-    #
-    #     logger.info(f"{line_id} has deployed")
