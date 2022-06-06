@@ -4,9 +4,7 @@ import loguru
 import numpy as np
 from configparser import ConfigParser
 from argparse import ArgumentParser
-from tqdm import tqdm
 from deployment.utils.maps import LoaclMap
-from matplotlib import pyplot as plt
 
 from config.LuZhengye import params
 
