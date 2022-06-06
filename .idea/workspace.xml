@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4eb38207-2f85-488c-9668-be2b3436ec62" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/config/LuZhengye.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +96,8 @@
       <workItem from="1650808757862" duration="74000" />
       <workItem from="1653468935242" duration="119000" />
       <workItem from="1653483480532" duration="123000" />
-      <workItem from="1654264489696" duration="1645000" />
+      <workItem from="1654264489696" duration="4667000" />
+      <workItem from="1654323198061" duration="597000" />
     </task>
     <servers />
   </component>

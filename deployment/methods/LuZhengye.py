@@ -250,11 +250,11 @@ def deployment_lu(map: LoaclMap, Hs, phis, gap_pole, gap_road, cameras_info):
         var = vars_[0]
         plotHeatMap(var, poles, Hs, phis, -40, -20, 130, 100, cameras_info)
 
-        exit(-1)
+        return not PLOT
 
     f = [
         objectFunction(A),
-        # objectFunction2(P, 0, pt_size)
+        objectFunction2(P, 0, pt_size)
     ]
     cons = [
         lambda x: (1 - np.dot(A, x.T)).T
@@ -262,8 +262,8 @@ def deployment_lu(map: LoaclMap, Hs, phis, gap_pole, gap_road, cameras_info):
 
     params = {
         "name": "deploy",
-        "M": 1,
-        "maxormins": [1],
+        "M": 2,
+        "maxormins": [1, -1],
         "Dim": pole_size,
         "varTypes": [1] * pole_size,
         "lb": [0] * pole_size,
@@ -276,14 +276,14 @@ def deployment_lu(map: LoaclMap, Hs, phis, gap_pole, gap_road, cameras_info):
     init = partial(init_pop, NIND, pole_size)
 
     problem = ProblemwithConstraint(f, cons, init=None, **params)
-    algorithm = ea.soea_SEGA_templet(problem,
-                                     ea.Population(Encoding='BG', NIND=NIND),
-                                     MAXGEN=250,  # 最大进化代数
-                                     logTras=20)  # 表示每隔多少代记录一次日志信息，0表示不记录。
+    algorithm = ea.moea_NSGA2_templet(problem,
+                                      ea.Population(Encoding='BG', NIND=NIND),
+                                      MAXGEN=600,  # 最大进化代数
+                                      logTras=20)  # 表示每隔多少代记录一次日志信息，0表示不记录。
     # 求解
     logger.info("---------------start optimization----------------")
     res = ea.optimize(algorithm, seed=157, verbose=True, drawing=1, outputMsg=True, drawLog=False, saveFlag=True,
-                      dirName='result/ga_ori_s')
+                      dirName='result/ga_ori')
 
     np.savetxt("result/ga_ori_s/vars_single.txt", res["Vars"])
     vars_ = sorted(res["Vars"].tolist(),
@@ -311,6 +311,6 @@ def deployment_lu(map: LoaclMap, Hs, phis, gap_pole, gap_road, cameras_info):
     f2 = objectFunction2(P, 0, pt_size)
     objs = np.hstack([f1(np.array(vars_)), f2(np.array(vars_))])
 
-    np.savetxt("result/single_ori_s.txt", objs)
+    np.savetxt("result/single_ori.txt", objs)
 
     plt.show()
