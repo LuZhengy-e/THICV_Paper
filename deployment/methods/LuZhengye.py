@@ -205,7 +205,7 @@ def deployment_lu(map: LoaclMap, Hs, phis, gap_pole, gap_road, cameras_info):
                      "theta": theta}
                 )
 
-    pole_size = len(poles) * (len(Hs)) * len(phis) * 2
+    pole_size = len(poles) * len(Hs) * len(phis) * 2
     pt_size = len(pts)
 
     A = np.zeros((pt_size, pole_size), dtype=int)
@@ -285,7 +285,7 @@ def deployment_lu(map: LoaclMap, Hs, phis, gap_pole, gap_road, cameras_info):
     res = ea.optimize(algorithm, seed=157, verbose=True, drawing=1, outputMsg=True, drawLog=False, saveFlag=True,
                       dirName='result/ga_ori')
 
-    np.savetxt("result/ga_ori_s/vars_single.txt", res["Vars"])
+    np.savetxt("result/ga_ori/vars_single.txt", res["Vars"])
     vars_ = sorted(res["Vars"].tolist(),
                    key=lambda x: np.sum(x))
     vars = vars_[0]
@@ -305,12 +305,13 @@ def deployment_lu(map: LoaclMap, Hs, phis, gap_pole, gap_road, cameras_info):
             camera.deployment(map,
                               np.array([pole_pos.x, pole_pos.y]),
                               theta,
-                              pole_pos.z)
+                              pole_pos.z,
+                              **dict(phi=str(phi), H=str(h)))
 
     f1 = objectFunction(A)
     f2 = objectFunction2(P, 0, pt_size)
     objs = np.hstack([f1(np.array(vars_)), f2(np.array(vars_))])
 
-    np.savetxt("result/single_ori.txt", objs)
+    np.savetxt("result/multi_ori.txt", objs)
 
     plt.show()
