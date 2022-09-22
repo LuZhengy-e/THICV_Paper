@@ -31,7 +31,7 @@ def plotHeatMap(vars, poles, Hs, phis, min_x, min_y, max_x, max_y, cameras_info)
                     pole_pos = pole["pos"]
                     h = Hs[h_idx]
                     phi = phis[phi_idx]
-                    theta = pole["theta"] if theta_idx == 0 else -pole["theta"]
+                    theta = pole["theta"] if theta_idx == 0 else np.pi-pole["theta"]
 
                     camera = Camera2D.create(phi=phi, H=h, **cameras_info)
                     if camera.is_point_vis(pt,
@@ -222,7 +222,7 @@ def deployment_lu(map: LoaclMap, Hs, phis, gap_pole, gap_road, cameras_info):
                 pole_pos = pole["pos"]
                 h = Hs[h_idx]
                 phi = phis[phi_idx]
-                theta = pole["theta"] if theta_idx == 0 else -pole["theta"]
+                theta = pole["theta"] if theta_idx == 0 else np.pi-pole["theta"]
 
                 camera = Camera2D.create(phi=phi, H=h, **cameras_info)
                 if camera.is_point_vis(pt,
@@ -299,7 +299,7 @@ def deployment_lu(map: LoaclMap, Hs, phis, gap_pole, gap_road, cameras_info):
             pole_pos = pole["pos"]
             h = Hs[h_idx]
             phi = phis[phi_idx]
-            theta = pole["theta"] if theta_idx == 0 else -pole["theta"]
+            theta = pole["theta"] if theta_idx == 0 else np.pi-pole["theta"]
 
             camera = Camera2D.create(phi=phi, H=h, **cameras_info)
             camera.deployment(map,
